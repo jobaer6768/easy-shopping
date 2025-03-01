@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 
 const variants = {
-  outline: "px-4 py-2 border border-black",
+  outline: "px-4 py-2 border border-black hover:bg-black hover:text-white",
 };
 
 const Button = ({ variant, className, children }) => {
