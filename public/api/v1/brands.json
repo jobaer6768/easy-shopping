@@ -1,0 +1,361 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Adidas",
+            "logo": "/images/brands/adidas-logo.jpg",
+            "description": "High-quality sports and lifestyle apparel.",
+            "date_added": "2025-02-28T12:04:00Z"
+        },
+        {
+            "id": 2,
+            "name": "New Balance",
+            "logo": "/images/brands/new-balance-logo.jpg",
+            "description": "A footwear brand known for its high-quality athletic and casual shoes.",
+            "date_added": "2025-02-28T12:21:00Z"
+        },
+        {
+            "id": 3,
+            "name": "ASOS DESIGN",
+            "logo": "/images/brands/asos-logo.jpg",
+            "description": "An in-house brand by ASOS featuring the latest fashion trends.",
+            "date_added": "2025-02-28T12:43:00Z"
+        },
+        {
+            "id": 4,
+            "name": "Topman",
+            "logo": "/images/brands/topman-logo.jpg",
+            "description": "Topman is a British men's fashion retailer founded in 1978, offering clothing, shoes, and accessories. Initially part of the Arcadia Group, Topman was acquired by ASOS in 2021 and continues to operate as an online brand.",
+            "date_added": "2025-03-01T11:57:29Z"
+        },
+        {
+            "id": 5,
+            "name": "A.kjaerbede",
+            "logo": "akjaerbede-logo.jpg",
+            "description": "A stylish eyewear brand known for its minimalistic designs.",
+            "date_added": "2025-02-28T12:00:00Z"
+        },
+        {
+            "id": 6,
+            "name": "Armani",
+            "logo": "armani-logo.jpg",
+            "description": "A luxury fashion house known for its sophisticated clothing and accessories.",
+            "date_added": "2025-02-28T12:05:00Z"
+        },
+        {
+            "id": 7,
+            "name": "Asics",
+            "logo": "asics-logo.jpg",
+            "description": "A sportswear brand specializing in high-performance athletic shoes and apparel.",
+            "date_added": "2025-02-28T12:06:00Z"
+        },
+        {
+            "id": 8,
+            "name": "Calvin Klein",
+            "logo": "calvin-klein-logo.jpg",
+            "description": "An iconic fashion brand known for its stylish clothing and accessories.",
+            "date_added": "2025-02-28T12:07:00Z"
+        },
+        {
+            "id": 9,
+            "name": "Converse",
+            "logo": "converse-logo.jpg",
+            "description": "A well-known footwear brand famous for its Chuck Taylor sneakers.",
+            "date_added": "2025-02-28T12:08:00Z"
+        },
+        {
+            "id": 10,
+            "name": "Nike",
+            "logo": "nike-logo.jpg",
+            "description": "A leading sportswear brand.",
+            "date_added": "2025-02-28T12:09:00Z"
+        },
+        {
+            "id": 11,
+            "name": "Puma",
+            "logo": "puma-logo.jpg",
+            "description": "A global brand known for innovative sports and lifestyle products.",
+            "date_added": "2025-02-28T12:10:00Z"
+        },
+        {
+            "id": 12,
+            "name": "Reebok",
+            "logo": "reebok-logo.jpg",
+            "description": "A fitness and lifestyle brand with a strong heritage in sportswear.",
+            "date_added": "2025-02-28T12:11:00Z"
+        },
+        {
+            "id": 13,
+            "name": "Levi's",
+            "logo": "levis-logo.jpg",
+            "description": "A leading denim brand known for its iconic jeans and casualwear.",
+            "date_added": "2025-02-28T12:12:00Z"
+        },
+        {
+            "id": 14,
+            "name": "Lacoste",
+            "logo": "lacoste-logo.jpg",
+            "description": "A premium fashion brand famous for its polo shirts and crocodile logo.",
+            "date_added": "2025-02-28T12:13:00Z"
+        },
+        {
+            "id": 15,
+            "name": "Timberland",
+            "logo": "timberland-logo.jpg",
+            "description": "A brand known for durable outdoor footwear and clothing.",
+            "date_added": "2025-02-28T12:14:00Z"
+        },
+        {
+            "id": 16,
+            "name": "Tommy Hilfiger",
+            "logo": "tommy-hilfiger-logo.jpg",
+            "description": "A classic American fashion brand known for its preppy styles.",
+            "date_added": "2025-02-28T12:15:00Z"
+        },
+        {
+            "id": 17,
+            "name": "Under Armour",
+            "logo": "under-armour-logo.jpg",
+            "description": "A performance apparel brand specializing in sports gear and footwear.",
+            "date_added": "2025-02-28T12:16:00Z"
+        },
+        {
+            "id": 18,
+            "name": "Vans",
+            "logo": "vans-logo.jpg",
+            "description": "A skateboarding and lifestyle brand known for its iconic sneakers.",
+            "date_added": "2025-02-28T12:17:00Z"
+        },
+        {
+            "id": 19,
+            "name": "The North Face",
+            "logo": "the-north-face-logo.jpg",
+            "description": "A brand specializing in outdoor apparel, footwear, and gear.",
+            "date_added": "2025-02-28T12:18:00Z"
+        },
+        {
+            "id": 20,
+            "name": "Armani Exchange",
+            "logo": "armani-exchange-logo.jpg",
+            "description": "A contemporary fashion brand from Armani with urban and youthful designs.",
+            "date_added": "2025-02-28T12:19:00Z"
+        },
+        {
+            "id": 21,
+            "name": "Hollister",
+            "logo": "hollister-logo.jpg",
+            "description": "A California-inspired lifestyle brand offering casual clothing.",
+            "date_added": "2025-02-28T12:20:00Z"
+        },
+        {
+            "id": 22,
+            "name": "AAPE BY A BATHING APE",
+            "logo": "aape-logo.jpg",
+            "description": "A streetwear brand offering trendy and urban clothing.",
+            "date_added": "2025-02-28T12:01:00Z"
+        },
+        {
+            "id": 23,
+            "name": "Birkenstock",
+            "logo": "birkenstock-logo.jpg",
+            "description": "A footwear brand famous for its comfortable and supportive sandals.",
+            "date_added": "2025-02-28T12:22:00Z"
+        },
+        {
+            "id": 24,
+            "name": "Champion",
+            "logo": "champion-logo.jpg",
+            "description": "A sportswear brand offering comfortable and stylish athletic wear.",
+            "date_added": "2025-02-28T12:23:00Z"
+        },
+        {
+            "id": 25,
+            "name": "Columbia",
+            "logo": "columbia-logo.jpg",
+            "description": "A brand known for outdoor and adventure gear, including jackets and shoes.",
+            "date_added": "2025-02-28T12:24:00Z"
+        },
+        {
+            "id": 26,
+            "name": "Dr. Martens",
+            "logo": "dr-martens-logo.jpg",
+            "description": "An iconic footwear brand known for its durable and stylish boots.",
+            "date_added": "2025-02-28T12:25:00Z"
+        },
+        {
+            "id": 27,
+            "name": "Guess",
+            "logo": "guess-logo.jpg",
+            "description": "A fashion brand known for its stylish clothing and accessories.",
+            "date_added": "2025-02-28T12:26:00Z"
+        },
+        {
+            "id": 28,
+            "name": "Ray-Ban",
+            "logo": "rayban-logo.jpg",
+            "description": "A leading eyewear brand known for its classic sunglasses and optical frames.",
+            "date_added": "2025-02-28T12:27:00Z"
+        },
+        {
+            "id": 29,
+            "name": "Wrangler",
+            "logo": "wrangler-logo.jpg",
+            "description": "A denim brand known for its durable and stylish jeans.",
+            "date_added": "2025-02-28T12:28:00Z"
+        },
+        {
+            "id": 30,
+            "name": "UGG",
+            "logo": "ugg-logo.jpg",
+            "description": "A lifestyle brand famous for its cozy sheepskin boots and apparel.",
+            "date_added": "2025-02-28T12:29:00Z"
+        },
+        {
+            "id": 31,
+            "name": "Barbour",
+            "logo": "barbour-logo.jpg",
+            "description": "A British heritage brand known for its waxed jackets and classic outerwear.",
+            "date_added": "2025-02-28T12:30:00Z"
+        },
+        {
+            "id": 32,
+            "name": "Fred Perry",
+            "logo": "fred-perry-logo.jpg",
+            "description": "A fashion brand blending sportswear with street style, famous for polo shirts.",
+            "date_added": "2025-02-28T12:31:00Z"
+        },
+        {
+            "id": 33,
+            "name": "Carhartt WIP",
+            "logo": "carhartt-wip-logo.jpg",
+            "description": "A workwear-inspired fashion brand known for durability and streetwear aesthetics.",
+            "date_added": "2025-02-28T12:32:00Z"
+        },
+        {
+            "id": 34,
+            "name": "AllSaints",
+            "logo": "allsaints-logo.jpg",
+            "description": "A British fashion brand known for its edgy, modern designs.",
+            "date_added": "2025-02-28T12:33:00Z"
+        },
+        {
+            "id": 35,
+            "name": "Jack & Jones",
+            "logo": "jack-jones-logo.jpg",
+            "description": "A contemporary menswear brand offering casual and denim-focused clothing.",
+            "date_added": "2025-02-28T12:34:00Z"
+        },
+        {
+            "id": 36,
+            "name": "Paul Smith",
+            "logo": "paul-smith-logo.jpg",
+            "description": "A British designer brand known for its vibrant and quirky designs.",
+            "date_added": "2025-02-28T12:35:00Z"
+        },
+        {
+            "id": 37,
+            "name": "HUGO",
+            "logo": "hugo-logo.jpg",
+            "description": "A contemporary fashion brand from Hugo Boss offering bold and stylish designs.",
+            "date_added": "2025-02-28T12:36:00Z"
+        },
+        {
+            "id": 38,
+            "name": "Moschino",
+            "logo": "moschino-logo.jpg",
+            "description": "A luxury fashion brand known for its playful and bold designs.",
+            "date_added": "2025-02-28T12:37:00Z"
+        },
+        {
+            "id": 39,
+            "name": "Ray-Ban",
+            "logo": "rayban-logo.jpg",
+            "description": "A classic eyewear brand known for its iconic sunglasses and frames.",
+            "date_added": "2025-02-28T12:38:00Z"
+        },
+        {
+            "id": 40,
+            "name": "Calvin Klein",
+            "logo": "calvin-klein-logo.jpg",
+            "description": "A global fashion brand known for its minimalist and stylish clothing and accessories.",
+            "date_added": "2025-02-28T12:39:00Z"
+        },
+        {
+            "id": 41,
+            "name": "Napapijri",
+            "logo": "napapijri-logo.jpg",
+            "description": "An Italian outerwear brand inspired by adventure and exploration.",
+            "date_added": "2025-02-28T12:40:00Z"
+        },
+        {
+            "id": 42,
+            "name": "Kickers",
+            "logo": "kickers-logo.jpg",
+            "description": "A footwear brand known for its durable and stylish leather shoes.",
+            "date_added": "2025-02-28T12:41:00Z"
+        },
+        {
+            "id": 43,
+            "name": "Bershka",
+            "logo": "bershka-logo.jpg",
+            "description": "A trendy fashion brand offering modern and youthful designs.",
+            "date_added": "2025-02-28T12:42:00Z"
+        },
+        {
+            "id": 44,
+            "name": "Abercrombie and Fitch",
+            "logo": "abercrombie-logo.jpg",
+            "description": "An American retailer known for its casual wear and luxury lifestyle branding.",
+            "date_added": "2025-02-28T12:02:00Z"
+        },
+        {
+            "id": 45,
+            "name": "Guess Originals",
+            "logo": "guess-originals-logo.jpg",
+            "description": "A retro-inspired collection from Guess, featuring vintage styles.",
+            "date_added": "2025-02-28T12:44:00Z"
+        },
+        {
+            "id": 46,
+            "name": "The Ordinary",
+            "logo": "the-ordinary-logo.jpg",
+            "description": "A skincare brand offering high-quality and affordable products.",
+            "date_added": "2025-02-28T12:45:00Z"
+        },
+        {
+            "id": 47,
+            "name": "Dr. Jart+",
+            "logo": "dr-jart-logo.jpg",
+            "description": "A skincare brand combining science and innovation for effective skincare solutions.",
+            "date_added": "2025-02-28T12:46:00Z"
+        },
+        {
+            "id": 48,
+            "name": "Clinique",
+            "logo": "clinique-logo.jpg",
+            "description": "A dermatologist-developed skincare brand focusing on gentle and effective formulas.",
+            "date_added": "2025-02-28T12:47:00Z"
+        },
+        {
+            "id": 49,
+            "name": "Origins",
+            "logo": "origins-logo.jpg",
+            "description": "A skincare brand using natural ingredients to create effective beauty products.",
+            "date_added": "2025-02-28T12:48:00Z"
+        },
+        {
+            "id": 50,
+            "name": "Hunter",
+            "logo": "hunter-logo.jpg",
+            "description": "A heritage footwear brand known for its waterproof boots and outdoor wear.",
+            "date_added": "2025-02-28T12:49:00Z"
+        },
+        {
+            "id": 51,
+            "name": "Acnecide",
+            "logo": "acnecide-logo.jpg",
+            "description": "A skincare brand specializing in acne treatment.",
+            "date_added": "2025-02-28T12:03:00Z"
+        }
+    ]
+}

@@ -1,9 +1,9 @@
-import Header from "./components/header";
+import HomePage from "./pages/home-page";
 
 const App = () => {
   return (
     <div>
-      <Header />
+      <HomePage />
     </div>
   );
 };
