@@ -1,18 +1,18 @@
 import PropTypes from "prop-types";
 
-import Brand from "../../components/brand";
-import Header from "../../components/header";
+import BrandItem from "../../components/brandItem";
 
-const HomePage = ({ brands }) => {
+const BrandPage = ({ brands }) => {
   return (
     <div>
-      <Header />
-      <Brand brands={brands} />
+      {brands?.map((brand) => {
+        return <BrandItem key={brand.id} name={brand.name} />;
+      })}
     </div>
   );
 };
 
-HomePage.propTypes = {
+BrandPage.propTypes = {
   brands: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
@@ -24,4 +24,4 @@ HomePage.propTypes = {
   ).isRequired,
 };
 
-export default HomePage;
+export default BrandPage;

@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 
 const Title = ({ children, className }) => {
-  return <p className={`${className}`}>{children}</p>;
+  return <p className={`font-[inter] ${className}`}>{children}</p>;
 };
 
 Title.propTypes = {

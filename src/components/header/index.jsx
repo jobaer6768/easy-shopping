@@ -1,3 +1,4 @@
+import { Link } from "react-router";
 import InputField from "../../ui/input-field";
 import NavLink from "../../ui/nav-link";
 import Title from "../../ui/title";
@@ -11,7 +12,9 @@ const Header = () => {
     <>
       {/* Top Part */}
       <div className="w-full bg-[#2d2d2d] font-[inter] text-white flex items-center lg:h-[72px] lg:px-24">
-        <Title className="text-2xl font-bold cursor-pointer">Easy</Title>
+        <Link to="/">
+          <Title className="text-2xl font-bold cursor-pointer">Easy</Title>
+        </Link>
 
         {/* divider */}
         <div className="lg:h-full lg:w-[2px] bg-[#4d4b4b] lg:ml-3"></div>

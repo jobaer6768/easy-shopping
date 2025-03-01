@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import { Link } from "react-router";
 import Button from "../../ui/button";
 
 // TODO: make responsive for mobile and tablet
@@ -11,9 +12,11 @@ const Brand = ({ brands }) => {
         })}
       </div>
       <div className="flex justify-center">
-        <Button variant="outline" className="lg:w-[220px] font-medium">
-          Shop Men&apos;s Brands
-        </Button>
+        <Link to="/brands">
+          <Button variant="outline" className="lg:w-[220px] font-medium">
+            Shop Men&apos;s Brands
+          </Button>
+        </Link>
       </div>
     </>
   );
