@@ -1,19 +1,30 @@
 import PropTypes from "prop-types";
 import { Link } from "react-router";
+
 import Button from "../../ui/button";
 
-// TODO: make responsive for mobile and tablet
 const Brand = ({ brands }) => {
   return (
     <>
-      <div className="lg:grid lg:grid-cols-4 lg:gap-2 lg:my-10">
-        {brands?.slice(0, 4).map((brand) => {
-          return <img key={brand.id} src={brand.logo} alt={brand.name} />;
-        })}
+      {/* Brand Grid */}
+      <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:gap-4 lg:my-10 px-4 sm:px-6 lg:px-0">
+        {brands?.slice(0, 4).map((brand) => (
+          <img
+            key={brand.id}
+            src={brand.logo}
+            alt={brand.name}
+            className="w-full h-auto object-contain mx-auto cursor-pointer"
+          />
+        ))}
       </div>
-      <div className="flex justify-center">
+
+      {/* Shop Button */}
+      <div className="flex justify-center mt-6">
         <Link to="/brands">
-          <Button variant="outline" className="lg:w-[220px] font-medium">
+          <Button
+            variant="outline"
+            className="w-[180px] sm:w-[200px] md:w-[220px] font-medium"
+          >
             Shop Men&apos;s Brands
           </Button>
         </Link>
