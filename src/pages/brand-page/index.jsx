@@ -56,7 +56,7 @@ const BrandPage = ({ brands }) => {
 
           {/* Brand Items */}
           {groupedBrands[letter].map((brand) => (
-            <BrandItem key={brand.id} name={brand.name} />
+            <BrandItem key={brand.id} id={brand.id} name={brand.name} />
           ))}
         </div>
       ))}

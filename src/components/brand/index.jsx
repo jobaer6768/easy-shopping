@@ -9,12 +9,13 @@ const Brand = ({ brands }) => {
       {/* Brand Grid */}
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:gap-4 lg:my-10 px-4 sm:px-6 lg:px-0">
         {brands?.slice(0, 4).map((brand) => (
-          <img
-            key={brand.id}
-            src={brand.logo}
-            alt={brand.name}
-            className="w-full h-auto object-contain mx-auto cursor-pointer"
-          />
+          <Link key={brand.id} to={`/brands/${brand.id}/products`}>
+            <img
+              src={brand.logo}
+              alt={brand.name}
+              className="w-full h-auto object-contain mx-auto cursor-pointer"
+            />
+          </Link>
         ))}
       </div>
 

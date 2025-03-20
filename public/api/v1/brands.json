@@ -30,8 +30,8 @@
         },
         {
             "id": 5,
-            "name": "A.kjaerbede",
-            "logo": "akjaerbede-logo.jpg",
+            "name": "ADPT",
+            "logo": "adpt-logo.jpg",
             "description": "A stylish eyewear brand known for its minimalistic designs.",
             "date_added": "2025-02-28T12:00:00Z"
         },
@@ -44,8 +44,8 @@
         },
         {
             "id": 7,
-            "name": "Asics",
-            "logo": "asics-logo.jpg",
+            "name": "ARKET",
+            "logo": "arket-logo.jpg",
             "description": "A sportswear brand specializing in high-performance athletic shoes and apparel.",
             "date_added": "2025-02-28T12:06:00Z"
         },
@@ -135,8 +135,8 @@
         },
         {
             "id": 20,
-            "name": "Armani Exchange",
-            "logo": "armani-exchange-logo.jpg",
+            "name": "Another Influence",
+            "logo": "another-influence-logo.jpg",
             "description": "A contemporary fashion brand from Armani with urban and youthful designs.",
             "date_added": "2025-02-28T12:19:00Z"
         },
@@ -349,13 +349,6 @@
             "logo": "hunter-logo.jpg",
             "description": "A heritage footwear brand known for its waterproof boots and outdoor wear.",
             "date_added": "2025-02-28T12:49:00Z"
-        },
-        {
-            "id": 51,
-            "name": "Acnecide",
-            "logo": "acnecide-logo.jpg",
-            "description": "A skincare brand specializing in acne treatment.",
-            "date_added": "2025-02-28T12:03:00Z"
         }
     ]
 }
