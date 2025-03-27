@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router";
 
@@ -6,7 +7,7 @@ import Product from "../../components/product";
 import Button from "../../ui/button";
 import { fetchData } from "../../utils/utility";
 
-const ProductPage = () => {
+const ProductPage = ({ type }) => {
   const { brandId } = useParams();
 
   const [products, setProducts] = useState([]);
@@ -39,7 +40,7 @@ const ProductPage = () => {
               We couldn’t find any products at the moment. Please check back
               later or explore other brands.
             </p>
-            <Link to="/brands">
+            <Link to={`/${type}/brands`}>
               <Button className="mt-4 px-6 py-2 bg-black text-white text-sm rounded-md hover:bg-gray-800 transition">
                 Explore Brands
               </Button>
@@ -60,6 +61,10 @@ const ProductPage = () => {
       </div>
     </>
   );
+};
+
+ProductPage.propTypes = {
+  type: PropTypes.string.isRequired,
 };
 
 export default ProductPage;

@@ -37,8 +37,14 @@ const App = () => {
         path="/women/brands"
         element={<BrandPage brands={womenBrands} type="Women" />}
       />
-      <Route path="/men/brands/:brandId/products" element={<ProductPage />} />
-      <Route path="/women/brands/:brandId/products" element={<ProductPage />} />
+      <Route
+        path="/men/brands/:brandId/products"
+        element={<ProductPage type="men" />}
+      />
+      <Route
+        path="/women/brands/:brandId/products"
+        element={<ProductPage type="women" />}
+      />
     </Routes>
   );
 };
