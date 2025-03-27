@@ -4,7 +4,7 @@
         {
             "id": 1,
             "name": "new balance Training Essentials long sleeve top in black",
-            "image": "/images/products/new-balance/product-1.jpg",
+            "image": "/images/products/men/new-balance/product-1.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -17,7 +17,7 @@
         {
             "id": 2,
             "name": "new balance Running Shoes Ultraboost 22",
-            "image": "/images/products/new-balance/product-2.jpg",
+            "image": "/images/products/men/new-balance/product-2.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -30,7 +30,7 @@
         {
             "id": 3,
             "name": "new balance Performance Shorts in Blue",
-            "image": "/images/products/new-balance/product-3.jpg",
+            "image": "/images/products/men/new-balance/product-3.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -43,7 +43,7 @@
         {
             "id": 4,
             "name": "new balance Sport Hoodie in Grey",
-            "image": "/images/products/new-balance/product-4.jpg",
+            "image": "/images/products/men/new-balance/product-4.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -56,7 +56,7 @@
         {
             "id": 5,
             "name": "new balance Training Sweatpants in Navy",
-            "image": "/images/products/new-balance/product-5.jpg",
+            "image": "/images/products/men/new-balance/product-5.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -69,7 +69,7 @@
         {
             "id": 6,
             "name": "new balance Originals Superstar Sneakers",
-            "image": "/images/products/new-balance/product-6.jpg",
+            "image": "/images/products/men/new-balance/product-6.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -82,7 +82,7 @@
         {
             "id": 7,
             "name": "new balance Terrex Hiking Boots",
-            "image": "/images/products/new-balance/product-7.jpg",
+            "image": "/images/products/men/new-balance/product-7.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -95,7 +95,7 @@
         {
             "id": 8,
             "name": "new balance Climalite Running T-Shirt",
-            "image": "/images/products/new-balance/product-8.jpg",
+            "image": "/images/products/men/new-balance/product-8.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -108,7 +108,7 @@
         {
             "id": 9,
             "name": "new balance Adizero Boston 10",
-            "image": "/images/products/new-balance/product-9.jpg",
+            "image": "/images/products/men/new-balance/product-9.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -121,7 +121,7 @@
         {
             "id": 10,
             "name": "new balance Swim Trunks",
-            "image": "/images/products/new-balance/product-10.jpg",
+            "image": "/images/products/men/new-balance/product-10.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -134,7 +134,7 @@
         {
             "id": 11,
             "name": "new balance Golf Polo Shirt",
-            "image": "/images/products/new-balance/product-11.jpg",
+            "image": "/images/products/men/new-balance/product-11.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -147,7 +147,7 @@
         {
             "id": 12,
             "name": "new balance Women's Yoga Leggings",
-            "image": "/images/products/new-balance/product-12.jpg",
+            "image": "/images/products/men/new-balance/product-12.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -160,7 +160,7 @@
         {
             "id": 13,
             "name": "new balance Kids' Football Boots",
-            "image": "/images/products/new-balance/product-13.jpg",
+            "image": "/images/products/men/new-balance/product-13.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -173,7 +173,7 @@
         {
             "id": 14,
             "name": "new balance Baseball Cap",
-            "image": "/images/products/new-balance/product-14.jpg",
+            "image": "/images/products/men/new-balance/product-14.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -186,7 +186,7 @@
         {
             "id": 15,
             "name": "new balance Backpack",
-            "image": "/images/products/new-balance/product-15.jpg",
+            "image": "/images/products/men/new-balance/product-15.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -199,7 +199,7 @@
         {
             "id": 16,
             "name": "new balance Training Gloves",
-            "image": "/images/products/new-balance/product-16.jpg",
+            "image": "/images/products/men/new-balance/product-16.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -212,7 +212,7 @@
         {
             "id": 17,
             "name": "new balance Running Socks",
-            "image": "/images/products/new-balance/product-17.jpg",
+            "image": "/images/products/men/new-balance/product-17.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -225,7 +225,7 @@
         {
             "id": 18,
             "name": "new balance Basketball Shoes",
-            "image": "/images/products/new-balance/product-18.jpg",
+            "image": "/images/products/men/new-balance/product-18.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -238,7 +238,7 @@
         {
             "id": 19,
             "name": "new balance Tennis Skirt",
-            "image": "/images/products/new-balance/product-19.jpg",
+            "image": "/images/products/men/new-balance/product-19.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -251,7 +251,7 @@
         {
             "id": 20,
             "name": "new balance Football Jersey",
-            "image": "/images/products/new-balance/product-20.jpg",
+            "image": "/images/products/men/new-balance/product-20.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -264,7 +264,7 @@
         {
             "id": 21,
             "name": "new balance Padded Jacket",
-            "image": "/images/products/new-balance/product-21.jpg",
+            "image": "/images/products/men/new-balance/product-21.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -277,7 +277,7 @@
         {
             "id": 22,
             "name": "new balance Track Pants",
-            "image": "/images/products/new-balance/product-22.jpg",
+            "image": "/images/products/men/new-balance/product-22.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -290,7 +290,7 @@
         {
             "id": 23,
             "name": "new balance Running Vest",
-            "image": "/images/products/new-balance/product-23.jpg",
+            "image": "/images/products/men/new-balance/product-23.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -303,7 +303,7 @@
         {
             "id": 24,
             "name": "new balance Water Bottle",
-            "image": "/images/products/new-balance/product-24.jpg",
+            "image": "/images/products/men/new-balance/product-24.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -316,7 +316,7 @@
         {
             "id": 25,
             "name": "new balance Gym Sack",
-            "image": "/images/products/new-balance/product-25.jpg",
+            "image": "/images/products/men/new-balance/product-25.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -329,7 +329,7 @@
         {
             "id": 26,
             "name": "new balance Swim Cap",
-            "image": "/images/products/new-balance/product-26.jpg",
+            "image": "/images/products/men/new-balance/product-26.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -342,7 +342,7 @@
         {
             "id": 27,
             "name": "new balance Training Tights",
-            "image": "/images/products/new-balance/product-27.jpg",
+            "image": "/images/products/men/new-balance/product-27.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -355,7 +355,7 @@
         {
             "id": 28,
             "name": "new balance Running Beanie",
-            "image": "/images/products/new-balance/product-28.jpg",
+            "image": "/images/products/men/new-balance/product-28.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -368,7 +368,7 @@
         {
             "id": 29,
             "name": "new balance Yoga Mat",
-            "image": "/images/products/new-balance/product-29.jpg",
+            "image": "/images/products/men/new-balance/product-29.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -381,7 +381,7 @@
         {
             "id": 30,
             "name": "new balance Golf Shoes",
-            "image": "/images/products/new-balance/product-30.jpg",
+            "image": "/images/products/men/new-balance/product-30.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -394,7 +394,7 @@
         {
             "id": 31,
             "name": "new balance Women's Tank Top",
-            "image": "/images/products/new-balance/product-31.jpg",
+            "image": "/images/products/men/new-balance/product-31.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -407,7 +407,7 @@
         {
             "id": 32,
             "name": "new balance Kids' Tracksuit",
-            "image": "/images/products/new-balance/product-32.jpg",
+            "image": "/images/products/men/new-balance/product-32.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -420,7 +420,7 @@
         {
             "id": 33,
             "name": "new balance Wristbands",
-            "image": "/images/products/new-balance/product-33.jpg",
+            "image": "/images/products/men/new-balance/product-33.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -433,7 +433,7 @@
         {
             "id": 34,
             "name": "new balance Duffel Bag",
-            "image": "/images/products/new-balance/product-34.jpg",
+            "image": "/images/products/men/new-balance/product-34.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -446,7 +446,7 @@
         {
             "id": 35,
             "name": "new balance Running Belt",
-            "image": "/images/products/new-balance/product-35.jpg",
+            "image": "/images/products/men/new-balance/product-35.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -459,7 +459,7 @@
         {
             "id": 36,
             "name": "new balance Swim Goggles",
-            "image": "/images/products/new-balance/product-36.jpg",
+            "image": "/images/products/men/new-balance/product-36.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -472,7 +472,7 @@
         {
             "id": 37,
             "name": "new balance Training Crop Top",
-            "image": "/images/products/new-balance/product-37.jpg",
+            "image": "/images/products/men/new-balance/product-37.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -485,7 +485,7 @@
         {
             "id": 38,
             "name": "new balance Hiking Socks",
-            "image": "/images/products/new-balance/product-38.jpg",
+            "image": "/images/products/men/new-balance/product-38.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -498,7 +498,7 @@
         {
             "id": 39,
             "name": "new balance Basketball Shorts",
-            "image": "/images/products/new-balance/product-39.jpg",
+            "image": "/images/products/men/new-balance/product-39.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -511,7 +511,7 @@
         {
             "id": 40,
             "name": "new balance Tennis Visor",
-            "image": "/images/products/new-balance/product-40.jpg",
+            "image": "/images/products/men/new-balance/product-40.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -524,7 +524,7 @@
         {
             "id": 41,
             "name": "new balance Football Shin Guards",
-            "image": "/images/products/new-balance/product-41.jpg",
+            "image": "/images/products/men/new-balance/product-41.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -537,7 +537,7 @@
         {
             "id": 42,
             "name": "new balance Padded Gloves",
-            "image": "/images/products/new-balance/product-42.jpg",
+            "image": "/images/products/men/new-balance/product-42.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -550,7 +550,7 @@
         {
             "id": 43,
             "name": "new balance Track Jacket",
-            "image": "/images/products/new-balance/product-43.jpg",
+            "image": "/images/products/men/new-balance/product-43.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -563,7 +563,7 @@
         {
             "id": 44,
             "name": "new balance Running Tights",
-            "image": "/images/products/new-balance/product-44.jpg",
+            "image": "/images/products/men/new-balance/product-44.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -576,7 +576,7 @@
         {
             "id": 45,
             "name": "new balance Hydration Pack",
-            "image": "/images/products/new-balance/product-45.jpg",
+            "image": "/images/products/men/new-balance/product-45.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -589,7 +589,7 @@
         {
             "id": 46,
             "name": "new balance Training Headband",
-            "image": "/images/products/new-balance/product-46.jpg",
+            "image": "/images/products/men/new-balance/product-46.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -602,7 +602,7 @@
         {
             "id": 47,
             "name": "new balance Gym Shoes",
-            "image": "/images/products/new-balance/product-47.jpg",
+            "image": "/images/products/men/new-balance/product-47.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -615,7 +615,7 @@
         {
             "id": 48,
             "name": "new balance Women's Sports Bra",
-            "image": "/images/products/new-balance/product-48.jpg",
+            "image": "/images/products/men/new-balance/product-48.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -628,7 +628,7 @@
         {
             "id": 49,
             "name": "new balance Kids' Running Shoes",
-            "image": "/images/products/new-balance/product-49.jpg",
+            "image": "/images/products/men/new-balance/product-49.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -641,7 +641,7 @@
         {
             "id": 50,
             "name": "new balance Soccer Ball",
-            "image": "/images/products/new-balance/product-50.jpg",
+            "image": "/images/products/men/new-balance/product-50.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -654,7 +654,7 @@
         {
             "id": 51,
             "name": "new balance Training Bench",
-            "image": "/images/products/new-balance/product-51.jpg",
+            "image": "/images/products/men/new-balance/product-51.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -667,7 +667,7 @@
         {
             "id": 52,
             "name": "new balance Lightweight Jacket",
-            "image": "/images/products/new-balance/product-52.jpg",
+            "image": "/images/products/men/new-balance/product-52.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -680,7 +680,7 @@
         {
             "id": 53,
             "name": "new balance Compression Shorts",
-            "image": "/images/products/new-balance/product-53.jpg",
+            "image": "/images/products/men/new-balance/product-53.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -693,7 +693,7 @@
         {
             "id": 54,
             "name": "new balance Running Gloves",
-            "image": "/images/products/new-balance/product-54.jpg",
+            "image": "/images/products/men/new-balance/product-54.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -706,7 +706,7 @@
         {
             "id": 55,
             "name": "new balance Yoga Blocks",
-            "image": "/images/products/new-balance/product-55.jpg",
+            "image": "/images/products/men/new-balance/product-55.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -719,7 +719,7 @@
         {
             "id": 56,
             "name": "new balance Golf Cap",
-            "image": "/images/products/new-balance/product-56.jpg",
+            "image": "/images/products/men/new-balance/product-56.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -732,7 +732,7 @@
         {
             "id": 57,
             "name": "new balance Women's Training Shorts",
-            "image": "/images/products/new-balance/product-57.jpg",
+            "image": "/images/products/men/new-balance/product-57.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -745,7 +745,7 @@
         {
             "id": 58,
             "name": "new balance Kids' Football Socks",
-            "image": "/images/products/new-balance/product-58.jpg",
+            "image": "/images/products/men/new-balance/product-58.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -758,7 +758,7 @@
         {
             "id": 59,
             "name": "new balance Basketball Hoop",
-            "image": "/images/products/new-balance/product-59.jpg",
+            "image": "/images/products/men/new-balance/product-59.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -771,7 +771,7 @@
         {
             "id": 60,
             "name": "new balance Training T-Shirt",
-            "image": "/images/products/new-balance/product-60.jpg",
+            "image": "/images/products/men/new-balance/product-60.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -784,7 +784,7 @@
         {
             "id": 61,
             "name": "new balance Compression Tights",
-            "image": "/images/products/new-balance/product-61.jpg",
+            "image": "/images/products/men/new-balance/product-61.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -797,7 +797,7 @@
         {
             "id": 62,
             "name": "new balance Running Armband",
-            "image": "/images/products/new-balance/product-62.jpg",
+            "image": "/images/products/men/new-balance/product-62.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -810,7 +810,7 @@
         {
             "id": 63,
             "name": "new balance Yoga Strap",
-            "image": "/images/products/new-balance/product-63.jpg",
+            "image": "/images/products/men/new-balance/product-63.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -823,7 +823,7 @@
         {
             "id": 64,
             "name": "new balance Golf Balls",
-            "image": "/images/products/new-balance/product-64.jpg",
+            "image": "/images/products/men/new-balance/product-64.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -836,7 +836,7 @@
         {
             "id": 65,
             "name": "new balance Women's Running Shoes",
-            "image": "/images/products/new-balance/product-65.jpg",
+            "image": "/images/products/men/new-balance/product-65.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -849,7 +849,7 @@
         {
             "id": 66,
             "name": "new balance Kids' Swimwear",
-            "image": "/images/products/new-balance/product-66.jpg",
+            "image": "/images/products/men/new-balance/product-66.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -862,7 +862,7 @@
         {
             "id": 67,
             "name": "new balance Training Resistance Bands",
-            "image": "/images/products/new-balance/product-67.jpg",
+            "image": "/images/products/men/new-balance/product-67.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -875,7 +875,7 @@
         {
             "id": 68,
             "name": "new balance Running Hydration Belt",
-            "image": "/images/products/new-balance/product-68.jpg",
+            "image": "/images/products/men/new-balance/product-68.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -888,7 +888,7 @@
         {
             "id": 69,
             "name": "new balance Gym Towel",
-            "image": "/images/products/new-balance/product-69.jpg",
+            "image": "/images/products/men/new-balance/product-69.jpg",
             "brand": {
                 "id": 2,
                 "name": "New Balance"
@@ -901,7 +901,7 @@
         {
             "id": 70,
             "name": "new balance Running Bottle",
-            "image": "/images/products/new-balance/product-70.jpg",
+            "image": "/images/products/men/new-balance/product-70.jpg",
             "brand": {
                 "id": 3,
                 "name": "New Balance"
@@ -914,7 +914,7 @@
         {
             "id": 71,
             "name": "new balance Training Backpack",
-            "image": "/images/products/new-balance/product-71.jpg",
+            "image": "/images/products/men/new-balance/product-71.jpg",
             "brand": {
                 "id": 3,
                 "name": "New Balance"
@@ -927,7 +927,7 @@
         {
             "id": 72,
             "name": "new balance Running Visor",
-            "image": "/images/products/new-balance/product-72.jpg",
+            "image": "/images/products/men/new-balance/product-72.jpg",
             "brand": {
                 "id": 3,
                 "name": "New Balance"

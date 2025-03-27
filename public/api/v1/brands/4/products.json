@@ -4,7 +4,7 @@
         {
             "id": 1,
             "name": "topman Training Essentials long sleeve top in black",
-            "image": "/images/products/topman/product-1.jpg",
+            "image": "/images/products/men/topman/product-1.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -17,7 +17,7 @@
         {
             "id": 2,
             "name": "topman Running Shoes Ultraboost 22",
-            "image": "/images/products/topman/product-2.jpg",
+            "image": "/images/products/men/topman/product-2.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -30,7 +30,7 @@
         {
             "id": 3,
             "name": "topman Performance Shorts in Blue",
-            "image": "/images/products/topman/product-3.jpg",
+            "image": "/images/products/men/topman/product-3.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -43,7 +43,7 @@
         {
             "id": 4,
             "name": "topman Sport Hoodie in Grey",
-            "image": "/images/products/topman/product-4.jpg",
+            "image": "/images/products/men/topman/product-4.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -56,7 +56,7 @@
         {
             "id": 5,
             "name": "topman Training Sweatpants in Navy",
-            "image": "/images/products/topman/product-5.jpg",
+            "image": "/images/products/men/topman/product-5.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -69,7 +69,7 @@
         {
             "id": 6,
             "name": "topman Originals Superstar Sneakers",
-            "image": "/images/products/topman/product-6.jpg",
+            "image": "/images/products/men/topman/product-6.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -82,7 +82,7 @@
         {
             "id": 7,
             "name": "topman Terrex Hiking Boots",
-            "image": "/images/products/topman/product-7.jpg",
+            "image": "/images/products/men/topman/product-7.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -95,7 +95,7 @@
         {
             "id": 8,
             "name": "topman Climalite Running T-Shirt",
-            "image": "/images/products/topman/product-8.jpg",
+            "image": "/images/products/men/topman/product-8.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -108,7 +108,7 @@
         {
             "id": 9,
             "name": "topman Adizero Boston 10",
-            "image": "/images/products/topman/product-9.jpg",
+            "image": "/images/products/men/topman/product-9.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -121,7 +121,7 @@
         {
             "id": 10,
             "name": "topman Swim Trunks",
-            "image": "/images/products/topman/product-10.jpg",
+            "image": "/images/products/men/topman/product-10.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -134,7 +134,7 @@
         {
             "id": 11,
             "name": "topman Golf Polo Shirt",
-            "image": "/images/products/topman/product-11.jpg",
+            "image": "/images/products/men/topman/product-11.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -147,7 +147,7 @@
         {
             "id": 12,
             "name": "topman Women's Yoga Leggings",
-            "image": "/images/products/topman/product-12.jpg",
+            "image": "/images/products/men/topman/product-12.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -160,7 +160,7 @@
         {
             "id": 13,
             "name": "topman Kids' Football Boots",
-            "image": "/images/products/topman/product-13.jpg",
+            "image": "/images/products/men/topman/product-13.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -173,7 +173,7 @@
         {
             "id": 14,
             "name": "topman Baseball Cap",
-            "image": "/images/products/topman/product-14.jpg",
+            "image": "/images/products/men/topman/product-14.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -186,7 +186,7 @@
         {
             "id": 15,
             "name": "topman Backpack",
-            "image": "/images/products/topman/product-15.jpg",
+            "image": "/images/products/men/topman/product-15.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -199,7 +199,7 @@
         {
             "id": 16,
             "name": "topman Training Gloves",
-            "image": "/images/products/topman/product-16.jpg",
+            "image": "/images/products/men/topman/product-16.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -212,7 +212,7 @@
         {
             "id": 17,
             "name": "topman Running Socks",
-            "image": "/images/products/topman/product-17.jpg",
+            "image": "/images/products/men/topman/product-17.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -225,7 +225,7 @@
         {
             "id": 18,
             "name": "topman Basketball Shoes",
-            "image": "/images/products/topman/product-18.jpg",
+            "image": "/images/products/men/topman/product-18.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -238,7 +238,7 @@
         {
             "id": 19,
             "name": "topman Tennis Skirt",
-            "image": "/images/products/topman/product-19.jpg",
+            "image": "/images/products/men/topman/product-19.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -251,7 +251,7 @@
         {
             "id": 20,
             "name": "topman Football Jersey",
-            "image": "/images/products/topman/product-20.jpg",
+            "image": "/images/products/men/topman/product-20.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -264,7 +264,7 @@
         {
             "id": 21,
             "name": "topman Padded Jacket",
-            "image": "/images/products/topman/product-21.jpg",
+            "image": "/images/products/men/topman/product-21.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -277,7 +277,7 @@
         {
             "id": 22,
             "name": "topman Track Pants",
-            "image": "/images/products/topman/product-22.jpg",
+            "image": "/images/products/men/topman/product-22.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -290,7 +290,7 @@
         {
             "id": 23,
             "name": "topman Running Vest",
-            "image": "/images/products/topman/product-23.jpg",
+            "image": "/images/products/men/topman/product-23.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -303,7 +303,7 @@
         {
             "id": 24,
             "name": "topman Water Bottle",
-            "image": "/images/products/topman/product-24.jpg",
+            "image": "/images/products/men/topman/product-24.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -316,7 +316,7 @@
         {
             "id": 25,
             "name": "topman Gym Sack",
-            "image": "/images/products/topman/product-25.jpg",
+            "image": "/images/products/men/topman/product-25.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -329,7 +329,7 @@
         {
             "id": 26,
             "name": "topman Swim Cap",
-            "image": "/images/products/topman/product-26.jpg",
+            "image": "/images/products/men/topman/product-26.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -342,7 +342,7 @@
         {
             "id": 27,
             "name": "topman Training Tights",
-            "image": "/images/products/topman/product-27.jpg",
+            "image": "/images/products/men/topman/product-27.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -355,7 +355,7 @@
         {
             "id": 28,
             "name": "topman Running Beanie",
-            "image": "/images/products/topman/product-28.jpg",
+            "image": "/images/products/men/topman/product-28.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -368,7 +368,7 @@
         {
             "id": 29,
             "name": "topman Yoga Mat",
-            "image": "/images/products/topman/product-29.jpg",
+            "image": "/images/products/men/topman/product-29.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -381,7 +381,7 @@
         {
             "id": 30,
             "name": "topman Golf Shoes",
-            "image": "/images/products/topman/product-30.jpg",
+            "image": "/images/products/men/topman/product-30.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -394,7 +394,7 @@
         {
             "id": 31,
             "name": "topman Women's Tank Top",
-            "image": "/images/products/topman/product-31.jpg",
+            "image": "/images/products/men/topman/product-31.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -407,7 +407,7 @@
         {
             "id": 32,
             "name": "topman Kids' Tracksuit",
-            "image": "/images/products/topman/product-32.jpg",
+            "image": "/images/products/men/topman/product-32.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -420,7 +420,7 @@
         {
             "id": 33,
             "name": "topman Wristbands",
-            "image": "/images/products/topman/product-33.jpg",
+            "image": "/images/products/men/topman/product-33.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -433,7 +433,7 @@
         {
             "id": 34,
             "name": "topman Duffel Bag",
-            "image": "/images/products/topman/product-34.jpg",
+            "image": "/images/products/men/topman/product-34.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -446,7 +446,7 @@
         {
             "id": 35,
             "name": "topman Running Belt",
-            "image": "/images/products/topman/product-35.jpg",
+            "image": "/images/products/men/topman/product-35.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -459,7 +459,7 @@
         {
             "id": 36,
             "name": "topman Swim Goggles",
-            "image": "/images/products/topman/product-36.jpg",
+            "image": "/images/products/men/topman/product-36.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -472,7 +472,7 @@
         {
             "id": 37,
             "name": "topman Training Crop Top",
-            "image": "/images/products/topman/product-37.jpg",
+            "image": "/images/products/men/topman/product-37.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -485,7 +485,7 @@
         {
             "id": 38,
             "name": "topman Hiking Socks",
-            "image": "/images/products/topman/product-38.jpg",
+            "image": "/images/products/men/topman/product-38.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -498,7 +498,7 @@
         {
             "id": 39,
             "name": "topman Basketball Shorts",
-            "image": "/images/products/topman/product-39.jpg",
+            "image": "/images/products/men/topman/product-39.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -511,7 +511,7 @@
         {
             "id": 40,
             "name": "topman Tennis Visor",
-            "image": "/images/products/topman/product-40.jpg",
+            "image": "/images/products/men/topman/product-40.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -524,7 +524,7 @@
         {
             "id": 41,
             "name": "topman Football Shin Guards",
-            "image": "/images/products/topman/product-41.jpg",
+            "image": "/images/products/men/topman/product-41.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -537,7 +537,7 @@
         {
             "id": 42,
             "name": "topman Padded Gloves",
-            "image": "/images/products/topman/product-42.jpg",
+            "image": "/images/products/men/topman/product-42.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -550,7 +550,7 @@
         {
             "id": 43,
             "name": "topman Track Jacket",
-            "image": "/images/products/topman/product-43.jpg",
+            "image": "/images/products/men/topman/product-43.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -563,7 +563,7 @@
         {
             "id": 44,
             "name": "topman Running Tights",
-            "image": "/images/products/topman/product-44.jpg",
+            "image": "/images/products/men/topman/product-44.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -576,7 +576,7 @@
         {
             "id": 45,
             "name": "topman Hydration Pack",
-            "image": "/images/products/topman/product-45.jpg",
+            "image": "/images/products/men/topman/product-45.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -589,7 +589,7 @@
         {
             "id": 46,
             "name": "topman Training Headband",
-            "image": "/images/products/topman/product-46.jpg",
+            "image": "/images/products/men/topman/product-46.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -602,7 +602,7 @@
         {
             "id": 47,
             "name": "topman Gym Shoes",
-            "image": "/images/products/topman/product-47.jpg",
+            "image": "/images/products/men/topman/product-47.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -615,7 +615,7 @@
         {
             "id": 48,
             "name": "topman Women's Sports Bra",
-            "image": "/images/products/topman/product-48.jpg",
+            "image": "/images/products/men/topman/product-48.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -628,7 +628,7 @@
         {
             "id": 49,
             "name": "topman Kids' Running Shoes",
-            "image": "/images/products/topman/product-49.jpg",
+            "image": "/images/products/men/topman/product-49.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -641,7 +641,7 @@
         {
             "id": 50,
             "name": "topman Soccer Ball",
-            "image": "/images/products/topman/product-50.jpg",
+            "image": "/images/products/men/topman/product-50.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -654,7 +654,7 @@
         {
             "id": 51,
             "name": "topman Training Bench",
-            "image": "/images/products/topman/product-51.jpg",
+            "image": "/images/products/men/topman/product-51.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -667,7 +667,7 @@
         {
             "id": 52,
             "name": "topman Lightweight Jacket",
-            "image": "/images/products/topman/product-52.jpg",
+            "image": "/images/products/men/topman/product-52.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -680,7 +680,7 @@
         {
             "id": 53,
             "name": "topman Compression Shorts",
-            "image": "/images/products/topman/product-53.jpg",
+            "image": "/images/products/men/topman/product-53.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -693,7 +693,7 @@
         {
             "id": 54,
             "name": "topman Running Gloves",
-            "image": "/images/products/topman/product-54.jpg",
+            "image": "/images/products/men/topman/product-54.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -706,7 +706,7 @@
         {
             "id": 55,
             "name": "topman Yoga Blocks",
-            "image": "/images/products/topman/product-55.jpg",
+            "image": "/images/products/men/topman/product-55.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -719,7 +719,7 @@
         {
             "id": 56,
             "name": "topman Golf Cap",
-            "image": "/images/products/topman/product-56.jpg",
+            "image": "/images/products/men/topman/product-56.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -732,7 +732,7 @@
         {
             "id": 57,
             "name": "topman Women's Training Shorts",
-            "image": "/images/products/topman/product-57.jpg",
+            "image": "/images/products/men/topman/product-57.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -745,7 +745,7 @@
         {
             "id": 58,
             "name": "topman Kids' Football Socks",
-            "image": "/images/products/topman/product-58.jpg",
+            "image": "/images/products/men/topman/product-58.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -758,7 +758,7 @@
         {
             "id": 59,
             "name": "topman Basketball Hoop",
-            "image": "/images/products/topman/product-59.jpg",
+            "image": "/images/products/men/topman/product-59.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -771,7 +771,7 @@
         {
             "id": 60,
             "name": "topman Training T-Shirt",
-            "image": "/images/products/topman/product-60.jpg",
+            "image": "/images/products/men/topman/product-60.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -784,7 +784,7 @@
         {
             "id": 61,
             "name": "topman Compression Tights",
-            "image": "/images/products/topman/product-61.jpg",
+            "image": "/images/products/men/topman/product-61.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -797,7 +797,7 @@
         {
             "id": 62,
             "name": "topman Running Armband",
-            "image": "/images/products/topman/product-62.jpg",
+            "image": "/images/products/men/topman/product-62.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -810,7 +810,7 @@
         {
             "id": 63,
             "name": "topman Yoga Strap",
-            "image": "/images/products/topman/product-63.jpg",
+            "image": "/images/products/men/topman/product-63.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -823,7 +823,7 @@
         {
             "id": 64,
             "name": "topman Golf Balls",
-            "image": "/images/products/topman/product-64.jpg",
+            "image": "/images/products/men/topman/product-64.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -836,7 +836,7 @@
         {
             "id": 65,
             "name": "topman Women's Running Shoes",
-            "image": "/images/products/topman/product-65.jpg",
+            "image": "/images/products/men/topman/product-65.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -849,7 +849,7 @@
         {
             "id": 66,
             "name": "topman Kids' Swimwear",
-            "image": "/images/products/topman/product-66.jpg",
+            "image": "/images/products/men/topman/product-66.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -862,7 +862,7 @@
         {
             "id": 67,
             "name": "topman Training Resistance Bands",
-            "image": "/images/products/topman/product-67.jpg",
+            "image": "/images/products/men/topman/product-67.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -875,7 +875,7 @@
         {
             "id": 68,
             "name": "topman Running Hydration Belt",
-            "image": "/images/products/topman/product-68.jpg",
+            "image": "/images/products/men/topman/product-68.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -888,7 +888,7 @@
         {
             "id": 69,
             "name": "topman Gym Towel",
-            "image": "/images/products/topman/product-69.jpg",
+            "image": "/images/products/men/topman/product-69.jpg",
             "brand": {
                 "id": 4,
                 "name": "Topman"
@@ -901,7 +901,7 @@
         {
             "id": 70,
             "name": "topman Running Bottle",
-            "image": "/images/products/topman/product-70.jpg",
+            "image": "/images/products/men/topman/product-70.jpg",
             "brand": {
                 "id": 3,
                 "name": "Topman"
@@ -914,7 +914,7 @@
         {
             "id": 71,
             "name": "topman Training Backpack",
-            "image": "/images/products/topman/product-71.jpg",
+            "image": "/images/products/men/topman/product-71.jpg",
             "brand": {
                 "id": 3,
                 "name": "Topman"
@@ -927,7 +927,7 @@
         {
             "id": 72,
             "name": "topman Running Visor",
-            "image": "/images/products/topman/product-72.jpg",
+            "image": "/images/products/men/topman/product-72.jpg",
             "brand": {
                 "id": 3,
                 "name": "Topman"
