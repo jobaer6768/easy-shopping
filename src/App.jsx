@@ -8,23 +8,37 @@ import ProductPage from "./pages/product-page";
 import { fetchData } from "./utils/utility";
 
 const App = () => {
-  const [brands, setBrands] = useState([]);
+  const [menBrands, setMenBrands] = useState([]);
+  const [womenBrands, setWomenBrands] = useState([]);
 
   useEffect(() => {
     getBrands();
   }, []);
 
   const getBrands = async () => {
-    const data = await fetchData("/api/v1/brands.json");
+    const men = await fetchData("/api/v1/men/brands.json");
+    const women = await fetchData("/api/v1/women/brands.json");
 
-    setBrands(data);
+    setMenBrands(men);
+    setWomenBrands(women);
   };
 
   return (
     <Routes>
-      <Route path="/" element={<HomePage brands={brands} />} />
-      <Route path="/brands" element={<BrandPage brands={brands} />} />
-      <Route path="/brands/:brandId/products" element={<ProductPage />} />
+      <Route
+        path="/"
+        element={<HomePage menBrands={menBrands} womenBrands={womenBrands} />}
+      />
+      <Route
+        path="/men/brands"
+        element={<BrandPage brands={menBrands} type="Men" />}
+      />
+      <Route
+        path="/women/brands"
+        element={<BrandPage brands={womenBrands} type="Women" />}
+      />
+      <Route path="/men/brands/:brandId/products" element={<ProductPage />} />
+      <Route path="/women/brands/:brandId/products" element={<ProductPage />} />
     </Routes>
   );
 };

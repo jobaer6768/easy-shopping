@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "data": [],
+    "pagination": {
+        "page": 1,
+        "limit": 111,
+        "nextPage": null,
+        "prevPage": null,
+        "totalPage": 1,
+        "totalItems": 111
+    },
+    "links": {
+        "self": "/products?page=1&limit=111",
+        "nextPage": null,
+        "prevPage": null,
+        "brands": "/products/3/brands",
+        "images": "/products/3/images"
+    }
+}

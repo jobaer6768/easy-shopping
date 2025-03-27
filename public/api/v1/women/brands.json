@@ -1,0 +1,1453 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Adidas",
+            "logo": "/images/brands/women/adidas-logo.jpg",
+            "description": "High-quality sports and lifestyle apparel.",
+            "date_added": "2025-02-28T12:04:00Z"
+        },
+        {
+            "id": 2,
+            "name": "MANGO",
+            "logo": "/images/brands/women/mango-logo.jpg",
+            "description": "A footwear brand known for its high-quality athletic and casual shoes.",
+            "date_added": "2025-02-28T12:21:00Z"
+        },
+        {
+            "id": 3,
+            "name": "ASOS DESIGN",
+            "logo": "/images/brands/women/asos-logo.jpg",
+            "description": "An in-house brand by ASOS featuring the latest fashion trends.",
+            "date_added": "2025-02-28T12:43:00Z"
+        },
+        {
+            "id": 4,
+            "name": "Topshop",
+            "logo": "/images/brands/women/topshop-logo.jpg",
+            "description": "Topman is a British men's fashion retailer founded in 1978, offering clothing, shoes, and accessories. Initially part of the Arcadia Group, Topman was acquired by ASOS in 2021 and continues to operate as an online brand.",
+            "date_added": "2025-03-01T11:57:29Z"
+        },
+        {
+            "id": 5,
+            "name": "A. Kjaerbede",
+            "description": "A. Kjaerbede offers stylish and high-quality sunglasses with Scandinavian aesthetics.",
+            "logo": "/images/brands/women/a-kjaerbede.jpg",
+            "date_added": "2023-10-15T08:30:00Z"
+        },
+        {
+            "id": 6,
+            "name": "AAPE BY A BATHING APE",
+            "description": "AAPE by A Bathing Ape brings streetwear and urban fashion to a new level.",
+            "logo": "/images/brands/women/aape-by-a-bathing-ape.jpg",
+            "date_added": "2023-11-02T10:15:00Z"
+        },
+        {
+            "id": 7,
+            "name": "Abercrombie & Fitch",
+            "description": "Abercrombie & Fitch is known for its timeless casualwear and youthful fashion.",
+            "logo": "/images/brands/women/abercrombie-fitch.jpg",
+            "date_added": "2023-12-20T12:00:00Z"
+        },
+        {
+            "id": 8,
+            "name": "Accessorize",
+            "description": "Accessorize brings you the latest trends in jewelry, bags, and fashion accessories.",
+            "logo": "/images/brands/women/accessorize.jpg",
+            "date_added": "2024-01-05T14:45:00Z"
+        },
+        {
+            "id": 9,
+            "name": "Acnecide",
+            "description": "Acnecide specializes in skincare products to fight acne and promote clear skin.",
+            "logo": "/images/brands/women/acnecide.jpg",
+            "date_added": "2023-09-10T09:00:00Z"
+        },
+        {
+            "id": 10,
+            "name": "AFRM",
+            "description": "AFRM is all about bold prints and feminine silhouettes for confident women.",
+            "logo": "/images/brands/women/afrm.jpg",
+            "date_added": "2024-02-01T11:20:00Z"
+        },
+        {
+            "id": 11,
+            "name": "Aire",
+            "description": "Aire designs modern and chic eyewear with a focus on minimalism.",
+            "logo": "/images/brands/women/aire.jpg",
+            "date_added": "2023-08-25T15:30:00Z"
+        },
+        {
+            "id": 12,
+            "name": "AJ Morgan",
+            "description": "AJ Morgan creates trendy and affordable eyewear for everyday fashion.",
+            "logo": "/images/brands/women/aj-morgan.jpg",
+            "date_added": "2023-11-12T13:10:00Z"
+        },
+        {
+            "id": 13,
+            "name": "Aldo",
+            "description": "Aldo brings stylish and comfortable footwear, bags, and accessories.",
+            "logo": "/images/brands/women/aldo.jpg",
+            "date_added": "2023-07-30T16:40:00Z"
+        },
+        {
+            "id": 14,
+            "name": "AllSaints",
+            "description": "AllSaints is known for its edgy, modern, and high-quality fashion pieces.",
+            "logo": "/images/brands/women/allsaints.jpg",
+            "date_added": "2023-12-10T09:55:00Z"
+        },
+        {
+            "id": 15,
+            "name": "Alpha H",
+            "description": "Alpha H provides professional-grade skincare solutions for radiant skin.",
+            "logo": "/images/brands/women/alpha-h.jpg",
+            "date_added": "2023-06-22T10:05:00Z"
+        },
+        {
+            "id": 16,
+            "name": "Amy Lynn",
+            "description": "Amy Lynn delivers contemporary fashion with a feminine twist.",
+            "logo": "/images/brands/women/amy-lynn.jpg",
+            "date_added": "2024-01-15T18:20:00Z"
+        },
+        {
+            "id": 17,
+            "name": "Anaya With Love",
+            "description": "Anaya With Love creates sustainable and elegant fashion pieces.",
+            "logo": "/images/brands/women/anaya-with-love.jpg",
+            "date_added": "2023-10-05T14:00:00Z"
+        },
+        {
+            "id": 18,
+            "name": "Ann Summers",
+            "description": "Ann Summers is a leading brand for lingerie, nightwear, and intimate apparel.",
+            "logo": "/images/brands/women/ann-summers.jpg",
+            "date_added": "2023-08-18T12:30:00Z"
+        },
+        {
+            "id": 19,
+            "name": "Annorlunda",
+            "description": "Annorlunda blends Scandinavian style with modern fashion trends.",
+            "logo": "/images/brands/women/annorlunda.jpg",
+            "date_added": "2024-01-10T09:50:00Z"
+        },
+        {
+            "id": 20,
+            "name": "Ardell",
+            "description": "Ardell is a go-to brand for high-quality false eyelashes and beauty accessories.",
+            "logo": "/images/brands/women/ardell.jpg",
+            "date_added": "2023-07-05T13:15:00Z"
+        },
+        {
+            "id": 21,
+            "name": "Babyliss",
+            "description": "Babyliss offers professional hair styling tools and accessories for salon-quality results.",
+            "logo": "/images/brands/women/babyliss.jpg",
+            "date_added": "2023-09-12T10:30:00Z"
+        },
+        {
+            "id": 22,
+            "name": "Baggu",
+            "description": "Baggu designs stylish, sustainable, and reusable bags for everyday use.",
+            "logo": "/images/brands/women/baggu.jpg",
+            "date_added": "2023-10-18T12:45:00Z"
+        },
+        {
+            "id": 23,
+            "name": "Bailey Rose",
+            "description": "Bailey Rose creates trendy, youthful, and affordable fashion pieces.",
+            "logo": "/images/brands/women/bailey-rose.jpg",
+            "date_added": "2023-08-22T14:10:00Z"
+        },
+        {
+            "id": 24,
+            "name": "Bali Body",
+            "description": "Bali Body specializes in skincare and tanning products for a radiant glow.",
+            "logo": "/images/brands/women/bali-body.jpg",
+            "date_added": "2023-07-15T11:20:00Z"
+        },
+        {
+            "id": 25,
+            "name": "Barbour",
+            "description": "Barbour is known for its high-quality outdoor clothing and timeless British style.",
+            "logo": "/images/brands/women/barbour.jpg",
+            "date_added": "2023-11-05T09:30:00Z"
+        },
+        {
+            "id": 26,
+            "name": "Bardot",
+            "description": "Bardot creates contemporary fashion with a focus on elegant silhouettes and trends.",
+            "logo": "/images/brands/women/bardot.jpg",
+            "date_added": "2023-12-01T16:50:00Z"
+        },
+        {
+            "id": 27,
+            "name": "bareMinerals",
+            "description": "bareMinerals delivers clean, natural makeup and skincare for a healthy look.",
+            "logo": "/images/brands/women/bareminerals.jpg",
+            "date_added": "2023-06-28T13:25:00Z"
+        },
+        {
+            "id": 28,
+            "name": "Barry M",
+            "description": "Barry M is a cruelty-free makeup brand known for vibrant colors and bold looks.",
+            "logo": "/images/brands/women/barry-m.jpg",
+            "date_added": "2023-09-08T15:40:00Z"
+        },
+        {
+            "id": 29,
+            "name": "Basic Pleasure Mode",
+            "description": "Basic Pleasure Mode creates minimalist yet stylish loungewear and basics.",
+            "logo": "/images/brands/women/basic-pleasure-mode.jpg",
+            "date_added": "2023-10-12T11:15:00Z"
+        },
+        {
+            "id": 30,
+            "name": "Be Mine",
+            "description": "Be Mine brings romantic and playful designs to modern fashion.",
+            "logo": "/images/brands/women/be-mine.jpg",
+            "date_added": "2023-08-19T10:55:00Z"
+        },
+        {
+            "id": 31,
+            "name": "Beauty of Joseon",
+            "description": "Beauty of Joseon specializes in Korean skincare with traditional herbal ingredients.",
+            "logo": "/images/brands/women/beauty-of-joseon.jpg",
+            "date_added": "2023-07-29T14:05:00Z"
+        },
+        {
+            "id": 32,
+            "name": "Beauty Works",
+            "description": "Beauty Works offers premium hair extensions and styling tools for a flawless look.",
+            "logo": "/images/brands/women/beauty-works.jpg",
+            "date_added": "2023-09-25T12:20:00Z"
+        },
+        {
+            "id": 33,
+            "name": "Beautyblender",
+            "description": "Beautyblender is the original creator of the iconic blending sponge for flawless makeup application.",
+            "logo": "/images/brands/women/beautyblender.jpg",
+            "date_added": "2023-10-03T09:40:00Z"
+        },
+        {
+            "id": 34,
+            "name": "Beauut",
+            "description": "Beauut offers luxurious beauty and skincare products for self-care lovers.",
+            "logo": "/images/brands/women/beauut.jpg",
+            "date_added": "2023-11-15T15:10:00Z"
+        },
+        {
+            "id": 35,
+            "name": "Benefit",
+            "description": "Benefit is a playful and innovative beauty brand known for its iconic brow products.",
+            "logo": "/images/brands/women/benefit.jpg",
+            "date_added": "2023-12-05T10:30:00Z"
+        },
+        {
+            "id": 36,
+            "name": "Bershka",
+            "description": "Bershka offers trendy and youthful fashion for streetwear enthusiasts.",
+            "logo": "/images/brands/women/bershka.jpg",
+            "date_added": "2023-06-15T13:50:00Z"
+        },
+        {
+            "id": 37,
+            "name": "Billabong",
+            "description": "Billabong is a lifestyle brand for surfers and outdoor adventurers.",
+            "logo": "/images/brands/women/billabong.jpg",
+            "date_added": "2023-07-12T12:15:00Z"
+        },
+        {
+            "id": 38,
+            "name": "Calvin Klein",
+            "description": "Calvin Klein is a global lifestyle brand known for its modern and minimalist aesthetic.",
+            "logo": "/images/brands/women/calvin-klein.jpg",
+            "date_added": "2023-08-12T14:30:00Z"
+        },
+        {
+            "id": 39,
+            "name": "Calvin Klein Jeans",
+            "description": "Calvin Klein Jeans brings premium denim with contemporary designs and a sleek fit.",
+            "logo": "/images/brands/women/calvin-klein-jeans.jpg",
+            "date_added": "2023-09-05T10:45:00Z"
+        },
+        {
+            "id": 40,
+            "name": "Camille Rose",
+            "description": "Camille Rose offers natural haircare and skincare products infused with botanical ingredients.",
+            "logo": "/images/brands/women/camille-rose.jpg",
+            "date_added": "2023-07-22T13:10:00Z"
+        },
+        {
+            "id": 41,
+            "name": "Candypants",
+            "description": "Candypants is a fashion brand known for stylish partywear and bold designs.",
+            "logo": "/images/brands/women/candypants.jpg",
+            "date_added": "2023-06-18T11:20:00Z"
+        },
+        {
+            "id": 42,
+            "name": "Cantu",
+            "description": "Cantu specializes in haircare products designed for curly, coily, and wavy hair textures.",
+            "logo": "/images/brands/women/cantu.jpg",
+            "date_added": "2023-09-30T15:50:00Z"
+        },
+        {
+            "id": 43,
+            "name": "Carbon Theory",
+            "description": "Carbon Theory provides vegan and cruelty-free skincare solutions for acne-prone skin.",
+            "logo": "/images/brands/women/carbon-theory.jpg",
+            "date_added": "2023-10-08T12:00:00Z"
+        },
+        {
+            "id": 44,
+            "name": "Carhartt WIP",
+            "description": "Carhartt WIP blends workwear heritage with modern streetwear aesthetics.",
+            "logo": "/images/brands/women/carhartt-wip.jpg",
+            "date_added": "2023-07-14T09:30:00Z"
+        },
+        {
+            "id": 45,
+            "name": "Caudalie",
+            "description": "Caudalie harnesses the power of grapes and natural ingredients to create premium skincare.",
+            "logo": "/images/brands/women/caudalie.jpg",
+            "date_added": "2023-11-20T14:45:00Z"
+        },
+        {
+            "id": 46,
+            "name": "CeraVe",
+            "description": "CeraVe develops dermatologist-approved skincare with essential ceramides for hydration.",
+            "logo": "/images/brands/women/cerave.jpg",
+            "date_added": "2023-12-01T16:30:00Z"
+        },
+        {
+            "id": 47,
+            "name": "Cetaphil",
+            "description": "Cetaphil is a trusted skincare brand for sensitive and dry skin types.",
+            "logo": "/images/brands/women/cetaphil.jpg",
+            "date_added": "2023-06-25T10:10:00Z"
+        },
+        {
+            "id": 48,
+            "name": "Champion",
+            "description": "Champion is an iconic athletic wear brand offering classic sportswear styles.",
+            "logo": "/images/brands/women/champion.jpg",
+            "date_added": "2023-08-05T12:25:00Z"
+        },
+        {
+            "id": 49,
+            "name": "Charlotte Tilbury",
+            "description": "Charlotte Tilbury is a luxury beauty brand known for its glamorous makeup products.",
+            "logo": "/images/brands/women/charlotte-tilbury.jpg",
+            "date_added": "2023-09-15T14:00:00Z"
+        },
+        {
+            "id": 50,
+            "name": "Cheap Monday",
+            "description": "Cheap Monday offers edgy and affordable fashion, including signature skinny jeans.",
+            "logo": "/images/brands/women/cheap-monday.jpg",
+            "date_added": "2023-07-10T11:35:00Z"
+        },
+        {
+            "id": 51,
+            "name": "Chelsea Peers",
+            "description": "Chelsea Peers specializes in stylish loungewear and sleepwear.",
+            "logo": "/images/brands/women/chelsea-peers.jpg",
+            "date_added": "2023-10-20T15:20:00Z"
+        },
+        {
+            "id": 52,
+            "name": "CK Jeans",
+            "description": "CK Jeans delivers premium denim and casualwear with a modern, sophisticated look.",
+            "logo": "/images/brands/women/ck-jeans.jpg",
+            "date_added": "2023-11-08T13:40:00Z"
+        },
+        {
+            "id": 53,
+            "name": "Clarins",
+            "description": "Clarins is a luxury French skincare brand offering plant-based beauty solutions.",
+            "logo": "/images/brands/women/clarins.jpg",
+            "date_added": "2023-12-10T10:55:00Z"
+        },
+        {
+            "id": 54,
+            "name": "Clarks Originals",
+            "description": "Clarks Originals is known for timeless footwear, including the classic desert boot.",
+            "logo": "/images/brands/women/clarks-originals.jpg",
+            "date_added": "2023-06-30T12:50:00Z"
+        },
+        {
+            "id": 55,
+            "name": "Clinique",
+            "description": "Clinique creates dermatologist-developed skincare and allergy-tested beauty products.",
+            "logo": "/images/brands/women/clinique.jpg",
+            "date_added": "2023-09-22T14:15:00Z"
+        },
+        {
+            "id": 56,
+            "name": "CLOMANÁ Beauty",
+            "description": "CLOMANÁ Beauty offers high-performance makeup and skincare with innovative formulas.",
+            "logo": "/images/brands/women/clomana-beauty.jpg",
+            "date_added": "2023-07-18T13:00:00Z"
+        },
+        {
+            "id": 57,
+            "name": "Coco & Eve",
+            "description": "Coco & Eve specializes in tropical-inspired hair and skincare treatments.",
+            "logo": "/images/brands/women/coco-eve.jpg",
+            "date_added": "2023-10-28T15:10:00Z"
+        },
+        {
+            "id": 58,
+            "name": "Collective The Label",
+            "description": "Collective The Label creates elegant occasionwear with a modern twist.",
+            "logo": "/images/brands/women/collective-the-label.jpg",
+            "date_added": "2023-08-29T11:45:00Z"
+        },
+        {
+            "id": 59,
+            "name": "Daisy London",
+            "description": "Daisy London crafts contemporary, high-quality jewelry with a bohemian touch.",
+            "logo": "/images/brands/women/daisy-london.jpg",
+            "date_added": "2023-09-05T10:20:00Z"
+        },
+        {
+            "id": 60,
+            "name": "Daisy Street",
+            "description": "Daisy Street is a trend-driven fashion brand known for playful and vintage-inspired designs.",
+            "logo": "/images/brands/women/daisy-street.jpg",
+            "date_added": "2023-08-15T12:40:00Z"
+        },
+        {
+            "id": 61,
+            "name": "Daska",
+            "description": "Daska offers stylish and sustainable fashion pieces for the modern wardrobe.",
+            "logo": "/images/brands/women/daska.jpg",
+            "date_added": "2023-10-02T14:15:00Z"
+        },
+        {
+            "id": 62,
+            "name": "Denim Project",
+            "description": "Denim Project delivers high-quality denim essentials with timeless appeal.",
+            "logo": "/images/brands/women/denim-project.jpg",
+            "date_added": "2023-07-22T11:50:00Z"
+        },
+        {
+            "id": 63,
+            "name": "DesignB",
+            "description": "DesignB specializes in affordable yet stylish jewelry and accessories.",
+            "logo": "/images/brands/women/designb.jpg",
+            "date_added": "2023-06-30T09:25:00Z"
+        },
+        {
+            "id": 64,
+            "name": "Deus Ex Machina",
+            "description": "Deus Ex Machina blends motorcycle culture with premium casualwear fashion.",
+            "logo": "/images/brands/women/deus-ex-machina.jpg",
+            "date_added": "2023-11-08T13:10:00Z"
+        },
+        {
+            "id": 65,
+            "name": "Dickies",
+            "description": "Dickies is a heritage workwear brand known for its durable and stylish clothing.",
+            "logo": "/images/brands/women/dickies.jpg",
+            "date_added": "2023-09-12T14:55:00Z"
+        },
+        {
+            "id": 66,
+            "name": "Dippin' Daisy's",
+            "description": "Dippin' Daisy's creates sustainable and fashionable swimwear for all body types.",
+            "logo": "/images/brands/women/dippin-daisys.jpg",
+            "date_added": "2023-07-18T11:30:00Z"
+        },
+        {
+            "id": 67,
+            "name": "Doll Beauty",
+            "description": "Doll Beauty is a cosmetics brand known for bold lashes, highlighters, and lip products.",
+            "logo": "/images/brands/women/doll-beauty.jpg",
+            "date_added": "2023-10-28T16:00:00Z"
+        },
+        {
+            "id": 68,
+            "name": "Dora Larsen",
+            "description": "Dora Larsen is an innovative lingerie brand focusing on comfort and vibrant colors.",
+            "logo": "/images/brands/women/dora-larsen.jpg",
+            "date_added": "2023-08-25T12:10:00Z"
+        },
+        {
+            "id": 69,
+            "name": "Dorina",
+            "description": "Dorina offers inclusive and sustainable lingerie, swimwear, and activewear.",
+            "logo": "/images/brands/women/dorina.jpg",
+            "date_added": "2023-06-15T10:50:00Z"
+        },
+        {
+            "id": 70,
+            "name": "Dr Denim",
+            "description": "Dr Denim provides high-quality, fashion-forward denim and casualwear.",
+            "logo": "/images/brands/women/dr-denim.jpg",
+            "date_added": "2023-11-02T14:20:00Z"
+        },
+        {
+            "id": 71,
+            "name": "Dr Martens",
+            "description": "Dr Martens is an iconic footwear brand known for durable boots with a rebellious spirit.",
+            "logo": "/images/brands/women/dr-martens.jpg",
+            "date_added": "2023-09-29T13:00:00Z"
+        },
+        {
+            "id": 72,
+            "name": "Dr. Dennis Gross",
+            "description": "Dr. Dennis Gross creates science-backed skincare with powerful anti-aging formulas.",
+            "logo": "/images/brands/women/dr-dennis-gross.jpg",
+            "date_added": "2023-07-05T11:15:00Z"
+        },
+        {
+            "id": 73,
+            "name": "Dr. Jart+",
+            "description": "Dr. Jart+ blends dermatological science with K-beauty innovation for advanced skincare.",
+            "logo": "/images/brands/women/dr-jart.jpg",
+            "date_added": "2023-08-10T14:45:00Z"
+        },
+        {
+            "id": 74,
+            "name": "Drybar",
+            "description": "Drybar specializes in professional blowouts and salon-quality haircare products.",
+            "logo": "/images/brands/women/drybar.jpg",
+            "date_added": "2023-12-01T15:30:00Z"
+        },
+        {
+            "id": 75,
+            "name": "Dsquared",
+            "description": "Dsquared is a luxury fashion brand blending edgy, high-end style with Italian craftsmanship.",
+            "logo": "/images/brands/women/dsquared.jpg",
+            "date_added": "2023-10-15T12:20:00Z"
+        },
+        {
+            "id": 76,
+            "name": "e.l.f",
+            "description": "Affordable and high-quality cosmetics brand offering a wide range of makeup and skincare products.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/elf.jpg"
+        },
+        {
+            "id": 77,
+            "name": "Easilocks",
+            "description": "Premium hair extensions and styling products for effortless glamour.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/easilocks.jpg"
+        },
+        {
+            "id": 78,
+            "name": "Easy Tiger",
+            "description": "A contemporary brand offering bold and stylish fashion pieces.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/easy-tiger.jpg"
+        },
+        {
+            "id": 79,
+            "name": "Eco Style",
+            "description": "Haircare brand known for its natural styling gels and hair treatments.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/eco-style.jpg"
+        },
+        {
+            "id": 80,
+            "name": "Ed Hardy",
+            "description": "Iconic brand featuring bold designs inspired by tattoo culture.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/ed-hardy.jpg"
+        },
+        {
+            "id": 81,
+            "name": "Edikted",
+            "description": "Trendy fashion brand delivering stylish and edgy clothing for young women.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/edikted.jpg"
+        },
+        {
+            "id": 82,
+            "name": "EDITED",
+            "description": "Fashion brand focusing on modern minimalism and sustainable pieces.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/edited.jpg"
+        },
+        {
+            "id": 83,
+            "name": "Elemis",
+            "description": "Luxury British skincare brand known for effective and scientifically formulated products.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/elemis.jpg"
+        },
+        {
+            "id": 84,
+            "name": "Elie Saab",
+            "description": "Elegant and timeless fashion brand offering haute couture and luxury fragrances.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/elie-saab.jpg"
+        },
+        {
+            "id": 85,
+            "name": "ellesse",
+            "description": "Sportswear and streetwear brand known for its vibrant and retro designs.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/ellesse.jpg"
+        },
+        {
+            "id": 86,
+            "name": "Elsie and Fred",
+            "description": "Bold and colorful fashion brand with playful designs and statement pieces.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/elsie-and-fred.jpg"
+        },
+        {
+            "id": 87,
+            "name": "Embryolisse",
+            "description": "French skincare brand known for dermatological expertise and multi-functional products.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/embryolisse.jpg"
+        },
+        {
+            "id": 88,
+            "name": "Emory Park",
+            "description": "A contemporary fashion brand featuring effortlessly chic clothing pieces.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/emory-park.jpg"
+        },
+        {
+            "id": 89,
+            "name": "Emporio Armani",
+            "description": "Luxury fashion house offering sophisticated apparel, accessories, and fragrances.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/emporio-armani.jpg"
+        },
+        {
+            "id": 90,
+            "name": "En Route",
+            "description": "A jewelry brand offering stylish and trendy accessories for the modern woman.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/en-route.jpg"
+        },
+        {
+            "id": 91,
+            "name": "Erborian",
+            "description": "Korean skincare brand combining natural ingredients with advanced technology.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/erborian.jpg"
+        },
+        {
+            "id": 92,
+            "name": "Esmée",
+            "description": "Fashion brand focusing on feminine, trendy, and effortlessly stylish pieces.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/esmee.jpg"
+        },
+        {
+            "id": 93,
+            "name": "Estee Lauder",
+            "description": "Global beauty brand renowned for luxurious skincare, makeup, and fragrances.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/estee-lauder.jpg"
+        },
+        {
+            "id": 94,
+            "name": "Extro & Vert",
+            "description": "A contemporary brand known for unique and fashion-forward designs.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/extro-vert.jpg"
+        },
+        {
+            "id": 95,
+            "name": "Eylure",
+            "description": "Pioneering lash brand offering high-quality false lashes and brow products.",
+            "date_added": "2025-02-28T12:00:00Z",
+            "logo": "/images/brands/women/eylure.jpg"
+        },
+        {
+            "id": 96,
+            "name": "Farai London",
+            "description": "Luxury womenswear brand known for its elegant and contemporary designs.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/farai-london.jpg"
+        },
+        {
+            "id": 97,
+            "name": "Fashionkilla",
+            "description": "Trend-driven streetwear brand offering bold and stylish pieces.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/fashionkilla.jpg"
+        },
+        {
+            "id": 98,
+            "name": "First Aid Beauty",
+            "description": "Skincare brand offering high-quality, soothing products for sensitive skin.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/first-aid-beauty.jpg"
+        },
+        {
+            "id": 99,
+            "name": "Flamingo",
+            "description": "Personal care brand providing shaving and waxing products for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/flamingo.jpg"
+        },
+        {
+            "id": 100,
+            "name": "Floral Street",
+            "description": "Luxury fragrance brand offering a range of unique floral scents.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/floral-street.jpg"
+        },
+        {
+            "id": 101,
+            "name": "Flounce London",
+            "description": "Fashion brand known for its bold, flouncy dresses and statement pieces.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/flounce-london.jpg"
+        },
+        {
+            "id": 102,
+            "name": "For Love and Lemons",
+            "description": "Feminine fashion brand offering romantic and whimsical clothing.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/for-love-and-lemons.jpg"
+        },
+        {
+            "id": 103,
+            "name": "Foreo",
+            "description": "Beauty tech brand providing innovative skincare devices.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/foreo.jpg"
+        },
+        {
+            "id": 104,
+            "name": "Forever New",
+            "description": "Fashion brand offering sophisticated and feminine clothing.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/forever-new.jpg"
+        },
+        {
+            "id": 105,
+            "name": "Frank Body",
+            "description": "Skincare brand specializing in coffee-based body scrubs and skincare products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/frank-body.jpg"
+        },
+        {
+            "id": 106,
+            "name": "Fred Perry",
+            "description": "British heritage brand offering classic and stylish polo shirts and apparel.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/fred-perry.jpg"
+        },
+        {
+            "id": 107,
+            "name": "Free People",
+            "description": "Boho-chic fashion brand offering free-spirited clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/free-people.jpg"
+        },
+        {
+            "id": 108,
+            "name": "Free Society",
+            "description": "Streetwear brand offering edgy and rebellious fashion.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/free-society.jpg"
+        },
+        {
+            "id": 109,
+            "name": "French Connection",
+            "description": "Contemporary British fashion brand known for stylish clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/french-connection.jpg"
+        },
+        {
+            "id": 110,
+            "name": "G Star",
+            "description": "Innovative denim brand offering a wide range of stylish and sustainable jeans.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/g-star.jpg"
+        },
+        {
+            "id": 111,
+            "name": "GANT",
+            "description": "Premium American heritage brand known for its stylish and timeless clothing.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/gant.jpg"
+        },
+        {
+            "id": 112,
+            "name": "Garnier",
+            "description": "Skincare and hair care brand offering a variety of beauty products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/garnier.jpg"
+        },
+        {
+            "id": 113,
+            "name": "ghd",
+            "description": "Hair care brand offering premium hair styling tools and products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/ghd.jpg"
+        },
+        {
+            "id": 114,
+            "name": "Ghospell",
+            "description": "Fashion brand offering contemporary clothing with a unique and artistic twist.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/ghospell.jpg"
+        },
+        {
+            "id": 115,
+            "name": "Gina Tricot",
+            "description": "Fashion brand offering trendy and affordable clothing for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/gina-tricot.jpg"
+        },
+        {
+            "id": 116,
+            "name": "Glamorous",
+            "description": "Fashion brand providing chic and stylish clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/glamorous.jpg"
+        },
+        {
+            "id": 117,
+            "name": "Glow Hub",
+            "description": "Skincare brand offering products designed to enhance your natural glow.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/glow-hub.jpg"
+        },
+        {
+            "id": 118,
+            "name": "Glowery",
+            "description": "Beauty brand focused on creating skincare products for a radiant complexion.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/glowery.jpg"
+        },
+        {
+            "id": 119,
+            "name": "Good For Nothing",
+            "description": "Streetwear brand offering fashionable clothing with a rebellious edge.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/good-for-nothing.jpg"
+        },
+        {
+            "id": 120,
+            "name": "Gramicci",
+            "description": "Outdoor clothing brand known for its durable and functional designs.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/gramicci.jpg"
+        },
+        {
+            "id": 121,
+            "name": "Grown Alchemist",
+            "description": "Skincare brand offering natural and effective products with a focus on botanical ingredients.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/grown-alchemist.jpg"
+        },
+        {
+            "id": 122,
+            "name": "GUESS Originals",
+            "description": "Fashion brand offering trendy, high-quality clothing and accessories with a retro touch.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/guess-originals.jpg"
+        },
+        {
+            "id": 123,
+            "name": "Hair by Sam McKnight",
+            "description": "Luxury hair care brand offering products designed by renowned hairstylist Sam McKnight.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/hair-by-sam-mcknight.jpg"
+        },
+        {
+            "id": 124,
+            "name": "Hair Syrup",
+            "description": "Hair care brand offering unique formulations to nourish and enhance hair health.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/hair-syrup.jpg"
+        },
+        {
+            "id": 125,
+            "name": "Hairburst",
+            "description": "Hair care brand known for its hair vitamins and products that promote healthy hair growth.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/hairburst.jpg"
+        },
+        {
+            "id": 126,
+            "name": "Heartbreak",
+            "description": "Contemporary fashion brand offering edgy and trendy pieces for young women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/heartbreak.jpg"
+        },
+        {
+            "id": 127,
+            "name": "Heathe",
+            "description": "Luxury wellness brand offering products for mental and physical well-being.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/heathe.jpg"
+        },
+        {
+            "id": 128,
+            "name": "Heiress Beverly Hills",
+            "description": "Luxury fashion brand known for its high-end clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/heiress-beverly-hills.jpg"
+        },
+        {
+            "id": 129,
+            "name": "Hello Klean",
+            "description": "Clean beauty brand offering skincare products made with natural ingredients.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/hello-klean.jpg"
+        },
+        {
+            "id": 130,
+            "name": "Hello Sunday",
+            "description": "Skincare brand focusing on sun care products for a healthy, glowing complexion.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/hello-sunday.jpg"
+        },
+        {
+            "id": 131,
+            "name": "Heretic Nine",
+            "description": "Fragrance brand offering bold and unique scents designed for confident individuals.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/heretic-nine.jpg"
+        },
+        {
+            "id": 132,
+            "name": "Herschel",
+            "description": "Lifestyle brand known for its durable and stylish backpacks and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/herschel.jpg"
+        },
+        {
+            "id": 133,
+            "name": "Hollister",
+            "description": "Casualwear brand offering laid-back, Southern California-inspired clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/hollister.jpg"
+        },
+        {
+            "id": 134,
+            "name": "Hope & Ivy",
+            "description": "Fashion brand known for its elegant and vintage-inspired clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/hope-and-ivy.jpg"
+        },
+        {
+            "id": 135,
+            "name": "House of Sunny",
+            "description": "Contemporary fashion brand offering minimalist and trend-forward clothing.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/house-of-sunny.jpg"
+        },
+        {
+            "id": 136,
+            "name": "Huda Beauty",
+            "description": "Global beauty brand offering high-performance makeup and skincare products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/huda-beauty.jpg"
+        },
+        {
+            "id": 137,
+            "name": "ICONIC London",
+            "description": "Makeup brand offering high-performance cosmetics with a focus on iconic beauty.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/iconic-london.jpg"
+        },
+        {
+            "id": 138,
+            "name": "Iisla & Bird",
+            "description": "Fashion brand offering timeless, contemporary clothing with a focus on sustainability.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/iisla-and-bird.jpg"
+        },
+        {
+            "id": 139,
+            "name": "In The Style",
+            "description": "Fashion brand collaborating with influencers to provide trendy, affordable clothing.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/in-the-style.jpg"
+        },
+        {
+            "id": 140,
+            "name": "In Wear",
+            "description": "Danish fashion brand offering stylish, contemporary clothing for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/in-wear.jpg"
+        },
+        {
+            "id": 141,
+            "name": "Influence",
+            "description": "Trend-driven fashion brand known for creating clothing that fits modern-day influencers.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/influence.jpg"
+        },
+        {
+            "id": 142,
+            "name": "innisfree",
+            "description": "Korean skincare brand offering natural, eco-friendly products made with green tea and other natural ingredients.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/innisfree.jpg"
+        },
+        {
+            "id": 143,
+            "name": "Invisibobble",
+            "description": "Hair accessory brand known for its spiral-shaped hair ties that prevent hair breakage.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/invisibobble.jpg"
+        },
+        {
+            "id": 144,
+            "name": "Isle of Paradise",
+            "description": "Self-tanning brand offering a range of products that create a glowing, radiant tan.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/isle-of-paradise.jpg"
+        },
+        {
+            "id": 145,
+            "name": "Issey Miyake",
+            "description": "Japanese fashion brand offering innovative clothing and fragrances with a focus on futuristic designs.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/issey-miyake.jpg"
+        },
+        {
+            "id": 146,
+            "name": "IT'S NOW COOL",
+            "description": "Fashion brand known for its edgy and contemporary streetwear.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/its-now-cool.jpg"
+        },
+        {
+            "id": 147,
+            "name": "Ivory Rose",
+            "description": "Fashion brand offering a mix of elegant and romantic styles for every occasion.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/ivory-rose.jpg"
+        },
+        {
+            "id": 148,
+            "name": "Jaded London",
+            "description": "Streetwear brand known for its bold prints and statement pieces.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jaded-london.jpg"
+        },
+        {
+            "id": 149,
+            "name": "Jaded Rose",
+            "description": "Fashion brand offering edgy and alternative clothing with a cool, urban vibe.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jaded-rose.jpg"
+        },
+        {
+            "id": 150,
+            "name": "Jarlo",
+            "description": "Fashion brand offering elegant and sophisticated dresses for special occasions.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jarlo.jpg"
+        },
+        {
+            "id": 151,
+            "name": "JDY",
+            "description": "Contemporary fashion brand offering stylish, affordable clothing for everyday wear.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jdy.jpg"
+        },
+        {
+            "id": 152,
+            "name": "Jeepers Peepers",
+            "description": "Sunglasses brand offering a wide variety of stylish and trendy eyewear.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jeepers-peepers.jpg"
+        },
+        {
+            "id": 153,
+            "name": "Jewel Jemila",
+            "description": "Jewelry brand offering unique and handmade pieces with a contemporary touch.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jewel-jemila.jpg"
+        },
+        {
+            "id": 154,
+            "name": "Jimmy Fairly",
+            "description": "Eyewear brand offering stylish glasses and sunglasses with a social impact.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jimmy-fairly.jpg"
+        },
+        {
+            "id": 155,
+            "name": "JJXX",
+            "description": "Fashion brand known for its youthful, modern designs with a focus on comfort.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jjxx.jpg"
+        },
+        {
+            "id": 156,
+            "name": "Jordan",
+            "description": "Sportswear brand offering high-performance athletic shoes and apparel.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/jordan.jpg"
+        },
+        {
+            "id": 157,
+            "name": "Juicy Couture",
+            "description": "Luxury fashion brand known for its glamorous, casual clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/juicy-couture.jpg"
+        },
+        {
+            "id": 158,
+            "name": "Kaiia",
+            "description": "Fashion brand offering elegant and contemporary clothing with a focus on minimalism.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kaiia.jpg"
+        },
+        {
+            "id": 159,
+            "name": "Kanya London",
+            "description": "Luxury fashion brand specializing in high-end clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kanya-london.jpg"
+        },
+        {
+            "id": 160,
+            "name": "Kavu",
+            "description": "Outdoor lifestyle brand offering durable and practical clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kavu.jpg"
+        },
+        {
+            "id": 161,
+            "name": "KAYALI",
+            "description": "Luxury fragrance brand offering a diverse collection of unique, high-quality perfumes.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kayali.jpg"
+        },
+        {
+            "id": 162,
+            "name": "KBX",
+            "description": "Fashion and lifestyle brand offering bold, unique pieces for every occasion.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kbx.jpg"
+        },
+        {
+            "id": 163,
+            "name": "Kickers",
+            "description": "Footwear brand known for its stylish, durable shoes with a classic, timeless design.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kickers.jpg"
+        },
+        {
+            "id": 164,
+            "name": "Kingsley Ryan",
+            "description": "Jewelry brand offering contemporary designs with a touch of elegance and sophistication.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kingsley-ryan.jpg"
+        },
+        {
+            "id": 165,
+            "name": "Kiss The Sky",
+            "description": "Bohemian fashion brand offering free-spirited clothing with an earthy vibe.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kiss-the-sky.jpg"
+        },
+        {
+            "id": 166,
+            "name": "Kitsch",
+            "description": "Beauty and hair accessories brand known for fun, fashionable products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kitsch.jpg"
+        },
+        {
+            "id": 167,
+            "name": "Koi Footwear",
+            "description": "Footwear brand offering vegan-friendly, stylish shoes with a bold edge.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/koi-footwear.jpg"
+        },
+        {
+            "id": 168,
+            "name": "Kopari",
+            "description": "Beauty brand offering coconut oil-based skincare products for a natural, radiant glow.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kopari.jpg"
+        },
+        {
+            "id": 169,
+            "name": "Kristin Ess Hair",
+            "description": "Haircare brand offering salon-quality products for healthy, beautiful hair.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kristin-ess-hair.jpg"
+        },
+        {
+            "id": 170,
+            "name": "Kulani Kinis",
+            "description": "Swimwear brand offering stylish and comfortable bikinis for all body types.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kulani-kinis.jpg"
+        },
+        {
+            "id": 171,
+            "name": "Kylie Cosmetics",
+            "description": "Cosmetics brand founded by Kylie Jenner, offering a wide range of makeup products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/kylie-cosmetics.jpg"
+        },
+        {
+            "id": 172,
+            "name": "L'OCCITANE",
+            "description": "Skincare brand offering luxurious beauty products made with natural ingredients from Provence.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/l'occitane.jpg"
+        },
+        {
+            "id": 173,
+            "name": "L'Oreal",
+            "description": "Global cosmetics brand offering skincare, haircare, and makeup products for all beauty needs.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/l'oreal.jpg"
+        },
+        {
+            "id": 174,
+            "name": "Lab Series",
+            "description": "Skincare brand offering premium products designed for men’s skin.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lab-series.jpg"
+        },
+        {
+            "id": 175,
+            "name": "Labelrail",
+            "description": "Fashion brand offering high-quality clothing and accessories for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/labelrail.jpg"
+        },
+        {
+            "id": 176,
+            "name": "Lace & Beads",
+            "description": "Fashion brand offering elegant and sophisticated dresses for special occasions.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lace-and-beads.jpg"
+        },
+        {
+            "id": 177,
+            "name": "Lacoste",
+            "description": "Global brand offering casual, sporty apparel with a distinct crocodile logo.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lacoste.jpg"
+        },
+        {
+            "id": 178,
+            "name": "Lamoda",
+            "description": "Fashion brand offering affordable and trendy clothing and accessories for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lamoda.jpg"
+        },
+        {
+            "id": 179,
+            "name": "Lancaster",
+            "description": "Skincare brand specializing in sun care, anti-aging, and radiance-enhancing products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lancaster.jpg"
+        },
+        {
+            "id": 180,
+            "name": "LANEIGE",
+            "description": "Korean skincare brand offering hydrating products for healthy, glowing skin.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/laneige.jpg"
+        },
+        {
+            "id": 181,
+            "name": "Laura Mercier",
+            "description": "Luxury cosmetics brand known for its premium makeup products, including foundations and setting powders.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/laura-mercier.jpg"
+        },
+        {
+            "id": 182,
+            "name": "Lavish Alice",
+            "description": "Fashion brand offering elegant and luxurious clothing for modern women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lavish-alice.jpg"
+        },
+        {
+            "id": 183,
+            "name": "Le Mini Macaron",
+            "description": "Beauty brand offering compact, easy-to-use at-home gel manicure kits.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/le-mini-macaron.jpg"
+        },
+        {
+            "id": 184,
+            "name": "Le Specs",
+            "description": "Sunglasses brand known for its stylish and innovative designs.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/le-specs.jpg"
+        },
+        {
+            "id": 185,
+            "name": "Lee",
+            "description": "Denim brand offering durable and stylish jeans and casual wear.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lee.jpg"
+        },
+        {
+            "id": 186,
+            "name": "Levi's",
+            "description": "Iconic American brand known for its high-quality denim jeans and casual clothing.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/levis.jpg"
+        },
+        {
+            "id": 187,
+            "name": "Lindex",
+            "description": "Fashion brand offering stylish and affordable clothing for women and children.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lindex.jpg"
+        },
+        {
+            "id": 188,
+            "name": "Lioness",
+            "description": "Australian fashion brand known for its bold, contemporary designs.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lioness.jpg"
+        },
+        {
+            "id": 189,
+            "name": "Liquor N Poker",
+            "description": "Streetwear brand offering bold and edgy clothing and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/liquor-n-poker.jpg"
+        },
+        {
+            "id": 190,
+            "name": "Living Proof",
+            "description": "Haircare brand offering scientifically-backed products for healthier, stronger hair.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/living-proof.jpg"
+        },
+        {
+            "id": 191,
+            "name": "Lola May",
+            "description": "Fashion brand offering on-trend, affordable clothing and accessories for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lola-may.jpg"
+        },
+        {
+            "id": 192,
+            "name": "London Rebel",
+            "description": "Footwear and fashion brand offering stylish, bold shoes and accessories for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/london-rebel.jpg"
+        },
+        {
+            "id": 193,
+            "name": "Lottie",
+            "description": "Beauty brand offering high-quality, cruelty-free makeup brushes and accessories.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/lottie.jpg"
+        },
+        {
+            "id": 194,
+            "name": "Loungeable",
+            "description": "Loungewear brand offering comfortable and stylish clothing for relaxing at home.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/loungeable.jpg"
+        },
+        {
+            "id": 195,
+            "name": "Love Triangle",
+            "description": "Fashion brand known for its chic, trendy, and modern clothing for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/love-triangle.jpg"
+        },
+        {
+            "id": 196,
+            "name": "Love",
+            "description": "Fashion brand known for its chic, trendy, and modern clothing for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/love-triangle.jpg"
+        },
+        {
+            "id": 197,
+            "name": "MAC",
+            "description": "Global cosmetics brand offering professional-quality makeup products for all beauty needs.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/mac.jpg"
+        },
+        {
+            "id": 198,
+            "name": "Made by Mitchell",
+            "description": "Makeup brand founded by Mitchell, known for its innovative and high-performance products.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/made-by-mitchell.jpg"
+        },
+        {
+            "id": 199,
+            "name": "MAEGAN",
+            "description": "Luxury fashion brand offering chic and contemporary clothing for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/maegan.jpg"
+        },
+        {
+            "id": 200,
+            "name": "MAGIC Bodyfashion",
+            "description": "Brand specializing in comfortable, innovative shapewear and lingerie for women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/magic-bodyfashion.jpg"
+        },
+        {
+            "id": 201,
+            "name": "Maids to Measure",
+            "description": "Bespoke bridal fashion brand offering tailor-made wedding dresses and bridesmaid gowns.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/maids-to-measure.jpg"
+        },
+        {
+            "id": 202,
+            "name": "Malin & Goetz",
+            "description": "Skincare brand offering high-quality, natural products for face, hair, and body.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/malin-and-goetz.jpg"
+        },
+        {
+            "id": 203,
+            "name": "Mamalicious",
+            "description": "Maternity fashion brand offering stylish and comfortable clothing for pregnant women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/mamalicious.jpg"
+        },
+        {
+            "id": 204,
+            "name": "Mango",
+            "description": "Global fashion brand offering stylish clothing, accessories, and footwear for men and women.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/mango.jpg"
+        },
+        {
+            "id": 205,
+            "name": "Marc Jacobs",
+            "description": "Luxury fashion brand known for its high-end clothing, accessories, and fragrances.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/marc-jacobs.jpg"
+        },
+        {
+            "id": 206,
+            "name": "Mario Badescu",
+            "description": "Skincare brand offering effective, dermatologist-tested products for all skin types.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/mario-badescu.jpg"
+        },
+        {
+            "id": 207,
+            "name": "Maya",
+            "description": "Fashion brand offering elegant and trendy clothing, specializing in dresses and formal wear.",
+            "date_added": "2025-03-27T12:00:00Z",
+            "logo": "/images/brands/women/maya.jpg"
+        }
+    ]
+}

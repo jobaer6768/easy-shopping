@@ -3,13 +3,13 @@ import { Link } from "react-router";
 
 import Button from "../../ui/button";
 
-const Brand = ({ brands }) => {
+const Brand = ({ brands, type }) => {
   return (
     <>
       {/* Brand Grid */}
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:gap-4 lg:my-10 px-4 sm:px-6 lg:px-0">
         {brands?.slice(0, 4).map((brand) => (
-          <Link key={brand.id} to={`/brands/${brand.id}/products`}>
+          <Link key={brand.id} to={`${type}/brands/${brand.id}/products`}>
             <img
               src={brand.logo}
               alt={brand.name}
@@ -20,13 +20,13 @@ const Brand = ({ brands }) => {
       </div>
 
       {/* Shop Button */}
-      <div className="flex justify-center mt-6">
-        <Link to="/brands">
+      <div className="flex justify-center my-6">
+        <Link to={`/${type}/brands`}>
           <Button
             variant="outline"
             className="w-[180px] sm:w-[200px] md:w-[220px] font-medium"
           >
-            Shop Men&apos;s Brands
+            Shop {type}&apos;s <br /> Brands
           </Button>
         </Link>
       </div>
@@ -44,6 +44,7 @@ Brand.propTypes = {
       date_added: PropTypes.string.isRequired,
     })
   ).isRequired,
+  type: PropTypes.string.isRequired,
 };
 
 export default Brand;

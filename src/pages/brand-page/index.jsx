@@ -5,7 +5,7 @@ import BrandItem from "../../components/brandItem";
 import Divider from "../../ui/divider";
 import Title from "../../ui/title";
 
-const BrandPage = ({ brands }) => {
+const BrandPage = ({ brands, type }) => {
   const [groupedBrands, setGroupedBrands] = useState({});
 
   useEffect(() => {
@@ -29,7 +29,7 @@ const BrandPage = ({ brands }) => {
     <div className="max-w-5xl mx-auto p-4">
       {/* heading */}
       <Title className="text-center text-xl md:text-2xl font-bold">
-        A-Z Men&apos;s Brands
+        A-Z {type}&apos;s Brands
       </Title>
       <Divider className="my-2 mb-4" />
 
@@ -71,6 +71,7 @@ BrandPage.propTypes = {
       name: PropTypes.string.isRequired,
     })
   ).isRequired,
+  type: PropTypes.string.isRequired,
 };
 
 export default BrandPage;

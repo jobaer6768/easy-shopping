@@ -3,28 +3,28 @@
         {
             "id": 1,
             "name": "Adidas",
-            "logo": "/images/brands/adidas-logo.jpg",
+            "logo": "/images/brands/men/adidas-logo.jpg",
             "description": "High-quality sports and lifestyle apparel.",
             "date_added": "2025-02-28T12:04:00Z"
         },
         {
             "id": 2,
             "name": "New Balance",
-            "logo": "/images/brands/new-balance-logo.jpg",
+            "logo": "/images/brands/men/new-balance-logo.jpg",
             "description": "A footwear brand known for its high-quality athletic and casual shoes.",
             "date_added": "2025-02-28T12:21:00Z"
         },
         {
             "id": 3,
             "name": "ASOS DESIGN",
-            "logo": "/images/brands/asos-logo.jpg",
+            "logo": "/images/brands/men/asos-logo.jpg",
             "description": "An in-house brand by ASOS featuring the latest fashion trends.",
             "date_added": "2025-02-28T12:43:00Z"
         },
         {
             "id": 4,
             "name": "Topman",
-            "logo": "/images/brands/topman-logo.jpg",
+            "logo": "/images/brands/men/topman-logo.jpg",
             "description": "Topman is a British men's fashion retailer founded in 1978, offering clothing, shoes, and accessories. Initially part of the Arcadia Group, Topman was acquired by ASOS in 2021 and continues to operate as an online brand.",
             "date_added": "2025-03-01T11:57:29Z"
         },
