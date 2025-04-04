@@ -27,12 +27,18 @@ const Header = () => {
 
         {/* Desktop Navigation */}
         <nav className="hidden lg:flex items-center">
-          <NavLink className="font-medium cursor-pointer hover:bg-[#4d4b4b] px-4 py-4">
+          <Link
+            to="/women/products"
+            className="font-medium cursor-pointer hover:bg-[#4d4b4b] px-4 py-4"
+          >
             Women
-          </NavLink>
-          <NavLink className="font-medium cursor-pointer hover:bg-[#4d4b4b] px-4 py-4">
+          </Link>
+          <Link
+            to="/men/products"
+            className="font-medium cursor-pointer hover:bg-[#4d4b4b] px-4 py-4"
+          >
             Men
-          </NavLink>
+          </Link>
         </nav>
 
         {/* Desktop Search Bar */}

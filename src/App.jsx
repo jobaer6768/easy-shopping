@@ -4,6 +4,7 @@ import { Route, Routes } from "react-router";
 import BrandPage from "./pages/brand-page";
 import HomePage from "./pages/home-page";
 
+import GenderProductPage from "./pages/gender-product-page";
 import ProductPage from "./pages/product-page";
 import { fetchData } from "./utils/utility";
 
@@ -28,6 +29,11 @@ const App = () => {
       <Route
         path="/"
         element={<HomePage menBrands={menBrands} womenBrands={womenBrands} />}
+      />
+      <Route path="/men/products" element={<GenderProductPage type="Men" />} />
+      <Route
+        path="/women/products"
+        element={<GenderProductPage type="Women" />}
       />
       <Route
         path="/men/brands"
