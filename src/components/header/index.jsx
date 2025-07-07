@@ -52,9 +52,11 @@ const Header = () => {
 
         {/* Icons */}
         <div className="hidden lg:flex items-center space-x-4 text-xl">
-          <span className="cursor-pointer">
-            <FaRegUser />
-          </span>
+          <Link to="/register">
+            <span className="cursor-pointer">
+              <FaRegUser />
+            </span>
+          </Link>
           <span className="cursor-pointer">
             <FaRegHeart />
           </span>

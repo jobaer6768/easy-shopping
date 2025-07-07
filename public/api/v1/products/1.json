@@ -1,0 +1,13 @@
+{
+            "id": 1,
+            "name": "adidas Training Essentials long sleeve top in black",
+            "image": "/images/products/men/adidas/product-1.jpg",
+            "brand": {
+                "id": 1,
+                "name": "Adidas"
+            },
+            "original_price": 39.99,
+            "sale_price": 29.99,
+            "createdAt": "2025-02-20T12:00:00Z",
+            "updatedAt": "2025-02-28T12:30:45Z"
+        }

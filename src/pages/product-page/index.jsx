@@ -51,6 +51,7 @@ const ProductPage = ({ type }) => {
             {products?.map((product) => (
               <Product
                 key={product.id}
+                productId={product.id}
                 name={product.name}
                 image={product.image}
                 original_price={product.original_price}

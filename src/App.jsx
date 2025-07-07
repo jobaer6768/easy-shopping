@@ -7,6 +7,9 @@ import HomePage from "./pages/home-page";
 import GenderProductPage from "./pages/gender-product-page";
 import ProductPage from "./pages/product-page";
 import { fetchData } from "./utils/utility";
+import ProductDetailPage from "./pages/product-page/ProductDetail";
+import RegisterPage from "./pages/RegiterPage";
+import LoginPage from "./pages/LoginPage";
 
 const App = () => {
   const [menBrands, setMenBrands] = useState([]);
@@ -51,6 +54,9 @@ const App = () => {
         path="/women/brands/:brandId/products"
         element={<ProductPage type="women" />}
       />
+      <Route path="/products/:productId" element={<ProductDetailPage />} />
+      <Route path="/register" element={<RegisterPage />} />
+      <Route path="/login" element={<LoginPage />} />
     </Routes>
   );
 };
