@@ -52,7 +52,7 @@ const DetailPage = () => {
                   </div>
                   <div>
                     <h2 className="text-[16px] font-[600]">
-                      {"₹  "}
+                      {"TK  "}
                       <span className="text-red-500">
                         {Math.ceil(singleProduct?.price * 81)}
                       </span>
